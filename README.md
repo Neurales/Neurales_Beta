@@ -1,7 +1,7 @@
 # Neurales_Beta
 Source Available Beta
 <img
-src=“.githum/forlinkedin.jpg”
+src=“Neurales_logo.png”
 raw=true
 style=“margin-right: 10px;”
 />
