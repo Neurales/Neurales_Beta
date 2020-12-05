@@ -1,0 +1,3260 @@
+=======================
+=======================
+CHROMOSOME 1/6
+GENOME: {'filters': [64, 2, 32, 16, 64, 64], 'kernels': [6, 6, 3, 3, 6, 4], 'dropouts': array(['none', 'none', 'none', 'none', 'none', '0.2'], dtype='<U4'), 'norms': array(['none', 'instance', 'instance', 'batch', 'none', 'batch'],
+      dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (10, 10), 'hidden_sizes': [500, 50], 'activations': array(['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.01, 'momentum': 0.4, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 1/6
+GENOME: {'filters': [64, 2, 32, 16, 64, 64], 'kernels': [6, 6, 3, 3, 6, 4], 'dropouts': array(['none', 'none', 'none', 'none', 'none', '0.2'], dtype='<U4'), 'norms': array(['none', 'instance', 'instance', 'batch', 'none', 'batch'],
+      dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (10, 10), 'hidden_sizes': [500, 50], 'activations': array(['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.01, 'momentum': 0.4, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 1/6
+GENOME: {'filters': [64, 2, 32, 16, 64, 64], 'kernels': [6, 6, 3, 3, 6, 4], 'dropouts': array(['none', 'none', 'none', 'none', 'none', '0.2'], dtype='<U4'), 'norms': array(['none', 'instance', 'instance', 'batch', 'none', 'batch'],
+      dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (10, 10), 'hidden_sizes': [500, 50], 'activations': array(['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.01, 'momentum': 0.4, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 2/6
+GENOME: {'filters': [2, 128, 2, 32], 'kernels': [4, 5, 5, 3], 'dropouts': array(['0.25', 'none', 'none', 'none'], dtype='<U4'), 'norms': array(['batch', 'batch', 'none', 'none'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (9, 9), 'hidden_sizes': [100, 1000], 'activations': array(['prelu', 'prelu', 'relu', 'prelu'], dtype='<U5'), 'optimizer': 'rmsprop', 'lr': 0.0001, 'momentum': 0.9, 'epochs': 2}
+TRAIN METRICS ======
+Correct: 59022/60000
+F1: 0.983601
+Precision: 0.983601
+Recall: 0.983601
+TEST METRICS ======
+Correct: 9880/10000
+Accuracy: 98.8%
+F1: 0.987884
+Precision: 0.987913
+Recall: 0.987914
+=======================
+=======================
+CHROMOSOME 3/6
+GENOME: {'filters': [4, 2, 32, 2, 2, 64], 'kernels': [3, 6, 3, 3, 5, 4], 'dropouts': array(['0.1', 'none', 'none', 'none', 'none', 'none'], dtype='<U4'), 'norms': array(['batch', 'batch', 'none', 'none', 'none', 'none'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (7, 7), 'hidden_sizes': [100, 250], 'activations': array(['prelu', 'relu', 'prelu', 'prelu', 'relu', 'prelu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.005, 'momentum': 0.8, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 59005/60000
+F1: 0.983283
+Precision: 0.983283
+Recall: 0.983283
+TEST METRICS ======
+Correct: 9846/10000
+Accuracy: 98.5%
+F1: 0.984477
+Precision: 0.984676
+Recall: 0.984479
+=======================
+=======================
+CHROMOSOME 4/6
+GENOME: {'filters': [2, 4, 128], 'kernels': [4, 5, 4], 'dropouts': array(['none', 'none', 'none'], dtype='<U4'), 'norms': array(['none', 'batch', 'instance'], dtype='<U8'), 'adaptive_type': 'avg', 'adaptive_size': (9, 9), 'hidden_sizes': [500, 100], 'activations': array(['prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'sgd', 'lr': 0.0005, 'momentum': 0.9, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 55769/60000
+F1: 0.929033
+Precision: 0.929033
+Recall: 0.929033
+TEST METRICS ======
+Correct: 9436/10000
+Accuracy: 94.4%
+F1: 0.943189
+Precision: 0.943382
+Recall: 0.943141
+=======================
+=======================
+CHROMOSOME 5/6
+GENOME: {'filters': [4, 32, 32, 4, 128, 8], 'kernels': [3, 4, 6, 4, 3, 6], 'dropouts': array(['none', 'none', 'none', '0.25', 'none', 'none'], dtype='<U4'), 'norms': array(['batch', 'batch', 'none', 'instance', 'none', 'none'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (5, 5), 'hidden_sizes': [50, 25], 'activations': array(['relu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'rmsprop', 'lr': 0.0001, 'momentum': 0.5, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 58851/60000
+F1: 0.980702
+Precision: 0.980702
+Recall: 0.980702
+TEST METRICS ======
+Correct: 9847/10000
+Accuracy: 98.5%
+F1: 0.984560
+Precision: 0.984617
+Recall: 0.984647
+=======================
+=======================
+CHROMOSOME 6/6
+GENOME: {'filters': [8, 32, 4], 'kernels': [6, 6, 5], 'dropouts': array(['none', '0.1', 'none'], dtype='<U4'), 'norms': array(['instance', 'batch', 'batch'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (9, 9), 'hidden_sizes': [1000, 250], 'activations': array(['prelu', 'selu', 'prelu'], dtype='<U5'), 'optimizer': 'rmsprop', 'lr': 0.001, 'momentum': 0.5, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 59092/60000
+F1: 0.984759
+Precision: 0.984759
+Recall: 0.984759
+TEST METRICS ======
+Correct: 9839/10000
+Accuracy: 98.4%
+F1: 0.983895
+Precision: 0.984385
+Recall: 0.983559
+=======================
+=======================
+CHROMOSOME 1/6
+GENOME: {'filters': [64, 2, 32, 16, 64, 64], 'kernels': [6, 6, 3, 3, 6, 4], 'dropouts': array(['none', 'none', 'none', 'none', 'none', '0.2'], dtype='<U4'), 'norms': array(['none', 'instance', 'instance', 'batch', 'none', 'batch'],
+      dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (10, 10), 'hidden_sizes': [500, 50], 'activations': array(['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.01, 'momentum': 0.4, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 2/6
+GENOME: {'filters': [2, 128, 2, 32], 'kernels': [4, 5, 5, 3], 'dropouts': array(['0.25', 'none', 'none', 'none'], dtype='<U4'), 'norms': array(['batch', 'batch', 'none', 'none'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (9, 9), 'hidden_sizes': [100, 1000], 'activations': array(['prelu', 'prelu', 'relu', 'prelu'], dtype='<U5'), 'optimizer': 'rmsprop', 'lr': 0.0001, 'momentum': 0.9, 'epochs': 2}
+TRAIN METRICS ======
+Correct: 59022/60000
+F1: 0.983601
+Precision: 0.983601
+Recall: 0.983601
+TEST METRICS ======
+Correct: 9880/10000
+Accuracy: 98.8%
+F1: 0.987884
+Precision: 0.987913
+Recall: 0.987914
+=======================
+=======================
+CHROMOSOME 3/6
+GENOME: {'filters': [4, 2, 32, 2, 2, 64], 'kernels': [3, 6, 3, 3, 5, 4], 'dropouts': array(['0.1', 'none', 'none', 'none', 'none', 'none'], dtype='<U4'), 'norms': array(['batch', 'batch', 'none', 'none', 'none', 'none'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (7, 7), 'hidden_sizes': [100, 250], 'activations': array(['prelu', 'relu', 'prelu', 'prelu', 'relu', 'prelu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.005, 'momentum': 0.8, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 59005/60000
+F1: 0.983283
+Precision: 0.983283
+Recall: 0.983283
+TEST METRICS ======
+Correct: 9846/10000
+Accuracy: 98.5%
+F1: 0.984477
+Precision: 0.984676
+Recall: 0.984479
+=======================
+=======================
+CHROMOSOME 4/6
+GENOME: {'filters': [2, 4, 128], 'kernels': [4, 5, 4], 'dropouts': array(['none', 'none', 'none'], dtype='<U4'), 'norms': array(['none', 'batch', 'instance'], dtype='<U8'), 'adaptive_type': 'avg', 'adaptive_size': (9, 9), 'hidden_sizes': [500, 100], 'activations': array(['prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'sgd', 'lr': 0.0005, 'momentum': 0.9, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 55769/60000
+F1: 0.929033
+Precision: 0.929033
+Recall: 0.929033
+TEST METRICS ======
+Correct: 9436/10000
+Accuracy: 94.4%
+F1: 0.943189
+Precision: 0.943382
+Recall: 0.943141
+=======================
+=======================
+CHROMOSOME 5/6
+GENOME: {'filters': [4, 32, 32, 4, 128, 8], 'kernels': [3, 4, 6, 4, 3, 6], 'dropouts': array(['none', 'none', 'none', '0.25', 'none', 'none'], dtype='<U4'), 'norms': array(['batch', 'batch', 'none', 'instance', 'none', 'none'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (5, 5), 'hidden_sizes': [50, 25], 'activations': array(['relu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'rmsprop', 'lr': 0.0001, 'momentum': 0.5, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 58851/60000
+F1: 0.980702
+Precision: 0.980702
+Recall: 0.980702
+TEST METRICS ======
+Correct: 9847/10000
+Accuracy: 98.5%
+F1: 0.984560
+Precision: 0.984617
+Recall: 0.984647
+=======================
+=======================
+CHROMOSOME 6/6
+GENOME: {'filters': [8, 32, 4], 'kernels': [6, 6, 5], 'dropouts': array(['none', '0.1', 'none'], dtype='<U4'), 'norms': array(['instance', 'batch', 'batch'], dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (9, 9), 'hidden_sizes': [1000, 250], 'activations': array(['prelu', 'selu', 'prelu'], dtype='<U5'), 'optimizer': 'rmsprop', 'lr': 0.001, 'momentum': 0.5, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 59092/60000
+F1: 0.984759
+Precision: 0.984759
+Recall: 0.984759
+TEST METRICS ======
+Correct: 9839/10000
+Accuracy: 98.4%
+F1: 0.983895
+Precision: 0.984385
+Recall: 0.983559
+=======================
+=======================
+CHROMOSOME 1/6
+Filters: [64, 2, 32, 16, 64, 64]
+Kernels: [6, 6, 3, 3, 6, 4]
+Dropouts: ['none' 'none' 'none' 'none' 'none' '0.2']
+Norms: ['none' 'instance' 'instance' 'batch' 'none' 'batch']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [500, 50]
+Activations: ['prelu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+Epochs: 3
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 2/6
+Filters: [2, 128, 2, 32]
+Kernels: [4, 5, 5, 3]
+Dropouts: ['0.25' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [100, 1000]
+Activations: ['prelu' 'prelu' 'relu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 59022/60000
+F1: 0.983601
+Precision: 0.983601
+Recall: 0.983601
+TEST METRICS ======
+Correct: 9880/10000
+Accuracy: 98.8%
+F1: 0.987884
+Precision: 0.987913
+Recall: 0.987914
+=======================
+=======================
+CHROMOSOME 3/6
+Filters: [4, 2, 32, 2, 2, 64]
+Kernels: [3, 6, 3, 3, 5, 4]
+Dropouts: ['0.1' 'none' 'none' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none' 'none' 'none']
+adaptive type: max
+adaptive size: (7, 7)
+Hidden sizes: [100, 250]
+Activations: ['prelu' 'relu' 'prelu' 'prelu' 'relu' 'prelu']
+Optimizer: adam
+learning rate: 0.005
+momentum: 0.8
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59005/60000
+F1: 0.983283
+Precision: 0.983283
+Recall: 0.983283
+TEST METRICS ======
+Correct: 9846/10000
+Accuracy: 98.5%
+F1: 0.984477
+Precision: 0.984676
+Recall: 0.984479
+=======================
+=======================
+CHROMOSOME 4/6
+Filters: [2, 4, 128]
+Kernels: [4, 5, 4]
+Dropouts: ['none' 'none' 'none']
+Norms: ['none' 'batch' 'instance']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [500, 100]
+Activations: ['prelu' 'prelu' 'relu']
+Optimizer: sgd
+learning rate: 0.0005
+momentum: 0.9
+Epochs: 3
+TRAIN METRICS ======
+Correct: 55769/60000
+F1: 0.929033
+Precision: 0.929033
+Recall: 0.929033
+TEST METRICS ======
+Correct: 9436/10000
+Accuracy: 94.4%
+F1: 0.943189
+Precision: 0.943382
+Recall: 0.943141
+=======================
+=======================
+CHROMOSOME 5/6
+Filters: [4, 32, 32, 4, 128, 8]
+Kernels: [3, 4, 6, 4, 3, 6]
+Dropouts: ['none' 'none' 'none' '0.25' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'instance' 'none' 'none']
+adaptive type: max
+adaptive size: (5, 5)
+Hidden sizes: [50, 25]
+Activations: ['relu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 58851/60000
+F1: 0.980702
+Precision: 0.980702
+Recall: 0.980702
+TEST METRICS ======
+Correct: 9847/10000
+Accuracy: 98.5%
+F1: 0.984560
+Precision: 0.984617
+Recall: 0.984647
+=======================
+=======================
+CHROMOSOME 6/6
+Filters: [8, 32, 4]
+Kernels: [6, 6, 5]
+Dropouts: ['none' '0.1' 'none']
+Norms: ['instance' 'batch' 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [1000, 250]
+Activations: ['prelu' 'selu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59092/60000
+F1: 0.984759
+Precision: 0.984759
+Recall: 0.984759
+TEST METRICS ======
+Correct: 9839/10000
+Accuracy: 98.4%
+F1: 0.983895
+Precision: 0.984385
+Recall: 0.983559
+=======================
+=======================
+CHROMOSOME 1/6
+FITNESS: 0.080224Filters: [64, 2, 32, 16, 64, 64]
+Kernels: [6, 6, 3, 3, 6, 4]
+Dropouts: ['none' 'none' 'none' 'none' 'none' '0.2']
+Norms: ['none' 'instance' 'instance' 'batch' 'none' 'batch']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [500, 50]
+Activations: ['prelu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+Epochs: 3
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 2/6
+FITNESS: 1.000000Filters: [2, 128, 2, 32]
+Kernels: [4, 5, 5, 3]
+Dropouts: ['0.25' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [100, 1000]
+Activations: ['prelu' 'prelu' 'relu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 59022/60000
+F1: 0.983601
+Precision: 0.983601
+Recall: 0.983601
+TEST METRICS ======
+Correct: 9880/10000
+Accuracy: 98.8%
+F1: 0.987884
+Precision: 0.987913
+Recall: 0.987914
+=======================
+=======================
+CHROMOSOME 3/6
+FITNESS: 1.000000Filters: [4, 2, 32, 2, 2, 64]
+Kernels: [3, 6, 3, 3, 5, 4]
+Dropouts: ['0.1' 'none' 'none' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none' 'none' 'none']
+adaptive type: max
+adaptive size: (7, 7)
+Hidden sizes: [100, 250]
+Activations: ['prelu' 'relu' 'prelu' 'prelu' 'relu' 'prelu']
+Optimizer: adam
+learning rate: 0.005
+momentum: 0.8
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59005/60000
+F1: 0.983283
+Precision: 0.983283
+Recall: 0.983283
+TEST METRICS ======
+Correct: 9846/10000
+Accuracy: 98.5%
+F1: 0.984477
+Precision: 0.984676
+Recall: 0.984479
+=======================
+=======================
+CHROMOSOME 4/6
+FITNESS: 0.991697Filters: [2, 4, 128]
+Kernels: [4, 5, 4]
+Dropouts: ['none' 'none' 'none']
+Norms: ['none' 'batch' 'instance']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [500, 100]
+Activations: ['prelu' 'prelu' 'relu']
+Optimizer: sgd
+learning rate: 0.0005
+momentum: 0.9
+Epochs: 3
+TRAIN METRICS ======
+Correct: 55769/60000
+F1: 0.929033
+Precision: 0.929033
+Recall: 0.929033
+TEST METRICS ======
+Correct: 9436/10000
+Accuracy: 94.4%
+F1: 0.943189
+Precision: 0.943382
+Recall: 0.943141
+=======================
+=======================
+CHROMOSOME 5/6
+FITNESS: 1.000000Filters: [4, 32, 32, 4, 128, 8]
+Kernels: [3, 4, 6, 4, 3, 6]
+Dropouts: ['none' 'none' 'none' '0.25' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'instance' 'none' 'none']
+adaptive type: max
+adaptive size: (5, 5)
+Hidden sizes: [50, 25]
+Activations: ['relu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 58851/60000
+F1: 0.980702
+Precision: 0.980702
+Recall: 0.980702
+TEST METRICS ======
+Correct: 9847/10000
+Accuracy: 98.5%
+F1: 0.984560
+Precision: 0.984617
+Recall: 0.984647
+=======================
+=======================
+CHROMOSOME 6/6
+FITNESS: 1.000000Filters: [8, 32, 4]
+Kernels: [6, 6, 5]
+Dropouts: ['none' '0.1' 'none']
+Norms: ['instance' 'batch' 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [1000, 250]
+Activations: ['prelu' 'selu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59092/60000
+F1: 0.984759
+Precision: 0.984759
+Recall: 0.984759
+TEST METRICS ======
+Correct: 9839/10000
+Accuracy: 98.4%
+F1: 0.983895
+Precision: 0.984385
+Recall: 0.983559
+=======================
+=======================
+CHROMOSOME 1/6
+FITNESS: 0.080224
+Filters: [64, 2, 32, 16, 64, 64]
+Kernels: [6, 6, 3, 3, 6, 4]
+Dropouts: ['none' 'none' 'none' 'none' 'none' '0.2']
+Norms: ['none' 'instance' 'instance' 'batch' 'none' 'batch']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [500, 50]
+Activations: ['prelu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+Epochs: 3
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 2/6
+FITNESS: 1.000000
+Filters: [2, 128, 2, 32]
+Kernels: [4, 5, 5, 3]
+Dropouts: ['0.25' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [100, 1000]
+Activations: ['prelu' 'prelu' 'relu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 59022/60000
+F1: 0.983601
+Precision: 0.983601
+Recall: 0.983601
+TEST METRICS ======
+Correct: 9880/10000
+Accuracy: 98.8%
+F1: 0.987884
+Precision: 0.987913
+Recall: 0.987914
+=======================
+=======================
+CHROMOSOME 3/6
+FITNESS: 1.000000
+Filters: [4, 2, 32, 2, 2, 64]
+Kernels: [3, 6, 3, 3, 5, 4]
+Dropouts: ['0.1' 'none' 'none' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none' 'none' 'none']
+adaptive type: max
+adaptive size: (7, 7)
+Hidden sizes: [100, 250]
+Activations: ['prelu' 'relu' 'prelu' 'prelu' 'relu' 'prelu']
+Optimizer: adam
+learning rate: 0.005
+momentum: 0.8
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59005/60000
+F1: 0.983283
+Precision: 0.983283
+Recall: 0.983283
+TEST METRICS ======
+Correct: 9846/10000
+Accuracy: 98.5%
+F1: 0.984477
+Precision: 0.984676
+Recall: 0.984479
+=======================
+=======================
+CHROMOSOME 4/6
+FITNESS: 0.991697
+Filters: [2, 4, 128]
+Kernels: [4, 5, 4]
+Dropouts: ['none' 'none' 'none']
+Norms: ['none' 'batch' 'instance']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [500, 100]
+Activations: ['prelu' 'prelu' 'relu']
+Optimizer: sgd
+learning rate: 0.0005
+momentum: 0.9
+Epochs: 3
+TRAIN METRICS ======
+Correct: 55769/60000
+F1: 0.929033
+Precision: 0.929033
+Recall: 0.929033
+TEST METRICS ======
+Correct: 9436/10000
+Accuracy: 94.4%
+F1: 0.943189
+Precision: 0.943382
+Recall: 0.943141
+=======================
+=======================
+CHROMOSOME 5/6
+FITNESS: 1.000000
+Filters: [4, 32, 32, 4, 128, 8]
+Kernels: [3, 4, 6, 4, 3, 6]
+Dropouts: ['none' 'none' 'none' '0.25' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'instance' 'none' 'none']
+adaptive type: max
+adaptive size: (5, 5)
+Hidden sizes: [50, 25]
+Activations: ['relu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 58851/60000
+F1: 0.980702
+Precision: 0.980702
+Recall: 0.980702
+TEST METRICS ======
+Correct: 9847/10000
+Accuracy: 98.5%
+F1: 0.984560
+Precision: 0.984617
+Recall: 0.984647
+=======================
+=======================
+CHROMOSOME 6/6
+FITNESS: 1.000000
+Filters: [8, 32, 4]
+Kernels: [6, 6, 5]
+Dropouts: ['none' '0.1' 'none']
+Norms: ['instance' 'batch' 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [1000, 250]
+Activations: ['prelu' 'selu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59092/60000
+F1: 0.984759
+Precision: 0.984759
+Recall: 0.984759
+TEST METRICS ======
+Correct: 9839/10000
+Accuracy: 98.4%
+F1: 0.983895
+Precision: 0.984385
+Recall: 0.983559
+=======================
+=======================
+CHROMOSOME 1/6
+GENOME: {'filters': [64, 2, 32, 16, 64, 64], 'kernels': [6, 6, 3, 3, 6, 4], 'dropouts': array(['none', 'none', 'none', 'none', 'none', '0.2'], dtype='<U4'), 'norms': array(['none', 'instance', 'instance', 'batch', 'none', 'batch'],
+      dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (10, 10), 'hidden_sizes': [500, 50], 'activations': array(['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.01, 'momentum': 0.4, 'epochs': 3}
+TRAIN METRICS ======
+Correct: 6613/60000
+=======================
+CHROMOSOME 1/6
+FITNESS: 0.080224
+Filters: [64, 2, 32, 16, 64, 64]
+Kernels: [6, 6, 3, 3, 6, 4]
+Dropouts: ['none' 'none' 'none' 'none' 'none' '0.2']
+Norms: ['none' 'instance' 'instance' 'batch' 'none' 'batch']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [500, 50]
+Activations: ['prelu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+Epochs: 3
+TRAIN METRICS ======
+Correct: 6613/60000
+F1: 0.030786
+Precision: 0.030786
+Recall: 0.030786
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 2/6
+FITNESS: 1.000000
+Filters: [2, 128, 2, 32]
+Kernels: [4, 5, 5, 3]
+Dropouts: ['0.25' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [100, 1000]
+Activations: ['prelu' 'prelu' 'relu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 59022/60000
+F1: 0.983601
+Precision: 0.983601
+Recall: 0.983601
+TEST METRICS ======
+Correct: 9880/10000
+Accuracy: 98.8%
+F1: 0.987884
+Precision: 0.987913
+Recall: 0.987914
+=======================
+=======================
+CHROMOSOME 3/6
+FITNESS: 1.000000
+Filters: [4, 2, 32, 2, 2, 64]
+Kernels: [3, 6, 3, 3, 5, 4]
+Dropouts: ['0.1' 'none' 'none' 'none' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'none' 'none' 'none']
+adaptive type: max
+adaptive size: (7, 7)
+Hidden sizes: [100, 250]
+Activations: ['prelu' 'relu' 'prelu' 'prelu' 'relu' 'prelu']
+Optimizer: adam
+learning rate: 0.005
+momentum: 0.8
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59005/60000
+F1: 0.983283
+Precision: 0.983283
+Recall: 0.983283
+TEST METRICS ======
+Correct: 9846/10000
+Accuracy: 98.5%
+F1: 0.984477
+Precision: 0.984676
+Recall: 0.984479
+=======================
+=======================
+CHROMOSOME 4/6
+FITNESS: 0.991697
+Filters: [2, 4, 128]
+Kernels: [4, 5, 4]
+Dropouts: ['none' 'none' 'none']
+Norms: ['none' 'batch' 'instance']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [500, 100]
+Activations: ['prelu' 'prelu' 'relu']
+Optimizer: sgd
+learning rate: 0.0005
+momentum: 0.9
+Epochs: 3
+TRAIN METRICS ======
+Correct: 55769/60000
+F1: 0.929033
+Precision: 0.929033
+Recall: 0.929033
+TEST METRICS ======
+Correct: 9436/10000
+Accuracy: 94.4%
+F1: 0.943189
+Precision: 0.943382
+Recall: 0.943141
+=======================
+=======================
+CHROMOSOME 5/6
+FITNESS: 1.000000
+Filters: [4, 32, 32, 4, 128, 8]
+Kernels: [3, 4, 6, 4, 3, 6]
+Dropouts: ['none' 'none' 'none' '0.25' 'none' 'none']
+Norms: ['batch' 'batch' 'none' 'instance' 'none' 'none']
+adaptive type: max
+adaptive size: (5, 5)
+Hidden sizes: [50, 25]
+Activations: ['relu' 'prelu' 'prelu' 'prelu' 'prelu' 'relu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 58851/60000
+F1: 0.980702
+Precision: 0.980702
+Recall: 0.980702
+TEST METRICS ======
+Correct: 9847/10000
+Accuracy: 98.5%
+F1: 0.984560
+Precision: 0.984617
+Recall: 0.984647
+=======================
+=======================
+CHROMOSOME 6/6
+FITNESS: 1.000000
+Filters: [8, 32, 4]
+Kernels: [6, 6, 5]
+Dropouts: ['none' '0.1' 'none']
+Norms: ['instance' 'batch' 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [1000, 250]
+Activations: ['prelu' 'selu' 'prelu']
+Optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 59092/60000
+F1: 0.984759
+Precision: 0.984759
+Recall: 0.984759
+TEST METRICS ======
+Correct: 9839/10000
+Accuracy: 98.4%
+F1: 0.983895
+Precision: 0.984385
+Recall: 0.983559
+=======================
+=======================
+CHROMOSOME 1/6
+GENOME: {'filters': [64, 2, 32, 16, 64, 64], 'kernels': [6, 6, 3, 3, 6, 4], 'dropouts': array(['none', 'none', 'none', 'none', 'none', '0.2'], dtype='<U4'), 'norms': array(['none', 'instance', 'instance', 'batch', 'none', 'batch'],
+      dtype='<U8'), 'adaptive_type': 'max', 'adaptive_size': (10, 10), 'hidden_sizes': [500, 50], 'activations': array(['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu'], dtype='<U5'), 'optimizer': 'adam', 'lr': 0.01, 'momentum': 0.4, 'epochs': 3}
+TRAIN METRICS ======
+=======================
+CHROMOSOME 1/6
+FITNESS: 0.479016
+Filters: [16, 128]
+Kernels: [3, 5]
+Dropouts: ['none' 'none']
+Norms: ['none' 'none']
+adaptive type: avg
+adaptive size: (6, 6)
+Hidden sizes: [100, 500]
+Activations: ['prelu' 'relu']
+Optimizer: adam
+learning rate: 0.0005
+momentum: 0.75
+Epochs: 3
+TRAIN METRICS ======
+Correct: 15/40
+Accuracy: 37.5%
+F1: 0.494253
+Precision: 0.494253
+Recall: 0.494253
+TEST METRICS ======
+Correct: 3/16
+Accuracy: 18.8%
+F1: 0.204762
+Precision: 0.250000
+Recall: 0.187500
+=======================
+=======================
+CHROMOSOME 2/6
+FITNESS: 0.460599
+Filters: [128, 128, 16, 64]
+Kernels: [4, 5, 4, 6]
+Dropouts: ['none' '0.5' 'none' 'none']
+Norms: ['none' 'instance' 'batch' 'none']
+adaptive type: max
+adaptive size: (7, 7)
+Hidden sizes: [1000, 250]
+Activations: ['relu' 'prelu' 'prelu' 'prelu']
+Optimizer: sgd
+learning rate: 0.01
+momentum: 0.4
+Epochs: 2
+TRAIN METRICS ======
+Correct: 11/40
+Accuracy: 27.5%
+F1: 0.217487
+Precision: 0.217487
+Recall: 0.217487
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.300000
+Precision: 0.240909
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 3/6
+FITNESS: 0.276307
+Filters: [2, 64, 8, 2]
+Kernels: [4, 5, 5, 4]
+Dropouts: ['none' 'none' '0.5' 'none']
+Norms: ['batch' 'none' 'batch' 'none']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [25, 25]
+Activations: ['prelu' 'prelu' 'relu' 'relu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 10/40
+Accuracy: 25.0%
+F1: 0.065789
+Precision: 0.065789
+Recall: 0.065789
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 4/6
+FITNESS: 0.197025
+Filters: [2, 4, 16, 128, 16]
+Kernels: [5, 4, 6, 6, 3]
+Dropouts: ['none' 'none' 'none' '0.1' 'none']
+Norms: ['instance' 'none' 'instance' 'batch' 'none']
+adaptive type: avg
+adaptive size: (4, 4)
+Hidden sizes: [100, 50]
+Activations: ['prelu' 'prelu' 'prelu' 'prelu' 'prelu']
+Optimizer: adam
+learning rate: 0.01
+momentum: 0.8
+Epochs: 2
+TRAIN METRICS ======
+Correct: 4/40
+Accuracy: 10.0%
+F1: 0.074786
+Precision: 0.074786
+Recall: 0.074786
+TEST METRICS ======
+Correct: 1/16
+Accuracy: 6.2%
+F1: 0.035714
+Precision: 0.025000
+Recall: 0.062500
+=======================
+=======================
+CHROMOSOME 5/6
+FITNESS: 0.283623
+Filters: [16, 16, 2, 64]
+Kernels: [3, 6, 5, 3]
+Dropouts: ['0.5' 'none' '0.1' 'none']
+Norms: ['none' 'none' 'none' 'batch']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [50, 1000]
+Activations: ['prelu' 'prelu' 'prelu' 'relu']
+Optimizer: adam
+learning rate: 0.0005
+momentum: 0.8
+Epochs: 2
+TRAIN METRICS ======
+Correct: 11/40
+Accuracy: 27.5%
+F1: 0.132812
+Precision: 0.132812
+Recall: 0.132812
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 6/6
+FITNESS: 0.249313
+Filters: [128, 4, 128, 16, 16, 8]
+Kernels: [4, 5, 4, 4, 3, 5]
+Dropouts: ['0.1' 'none' 'none' 'none' 'none' '0.2']
+Norms: ['instance' 'none' 'batch' 'batch' 'batch' 'batch']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [250, 50]
+Activations: ['relu' 'relu' 'prelu' 'prelu' 'prelu' 'prelu']
+Optimizer: sgd
+learning rate: 0.0001
+momentum: 0.4
+Epochs: 3
+TRAIN METRICS ======
+Correct: 10/40
+Accuracy: 25.0%
+F1: 0.051282
+Precision: 0.051282
+Recall: 0.051282
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 1/20
+FITNESS: 0.555328
+Filters: [256, 256, 128]
+Kernels: [3, 3, 5]
+Dropouts: ['none', 'none', 'none']
+Norms: ['batch', 'none', 'none']
+adaptive type: max
+adaptive size: (6, 6)
+Hidden sizes: [50, 1000]
+Activations: ['relu', 'relu', 'relu']
+Optimizer: sgd
+learning rate: 0.0005
+momentum: 0.9
+Epochs: 25
+TRAIN METRICS ======
+Correct: 50/50
+Accuracy: 100.0%
+F1: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.372727
+Precision: 0.464286
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 2/20
+FITNESS: 0.256085
+Filters: [32, 32, 128, 2, 2, 32]
+Kernels: [4, 5, 3, 5, 5, 3]
+Dropouts: ['0.5', 'none', 'none', 'none', 'none', '0.1']
+Norms: ['none', 'none', 'instance', 'instance', 'none', 'batch']
+adaptive type: max
+adaptive size: (7, 7)
+Hidden sizes: [25, 250, 250]
+Activations: ['selu', 'relu', 'prelu', 'prelu', 'relu', 'relu']
+Optimizer: rmsprop
+learning rate: 0.0002
+momentum: 0.4
+Epochs: 2
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 3/20
+FITNESS: 0.412237
+Filters: [256, 8, 32, 8, 8]
+Kernels: [4, 3, 3, 3, 3]
+Dropouts: ['0.5', 'none', 'none', 'none', '0.25']
+Norms: ['none', 'none', 'instance', 'batch', 'instance']
+adaptive type: max
+adaptive size: (8, 8)
+Hidden sizes: [50, 250]
+Activations: ['prelu', 'prelu', 'relu', 'selu', 'prelu']
+Optimizer: sgd
+learning rate: 0.001
+momentum: 0.8
+Epochs: 3
+TRAIN METRICS ======
+Correct: 21/50
+Accuracy: 42.0%
+F1: 0.267730
+Precision: 0.267730
+Recall: 0.267730
+TEST METRICS ======
+Correct: 6/16
+Accuracy: 37.5%
+F1: 0.257143
+Precision: 0.200000
+Recall: 0.375000
+=======================
+=======================
+CHROMOSOME 4/20
+FITNESS: 0.333193
+Filters: [4, 2]
+Kernels: [4, 5]
+Dropouts: ['0.1', 'none']
+Norms: ['batch', 'none']
+adaptive type: max
+adaptive size: (6, 6)
+Hidden sizes: [50, 50]
+Activations: ['relu', 'prelu']
+Optimizer: sgd
+learning rate: 0.01
+momentum: 0.9
+Epochs: 10
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 5/20
+FITNESS: 0.386313
+Filters: [32, 256]
+Kernels: [4, 5]
+Dropouts: ['none', '0.25']
+Norms: ['none', 'none']
+adaptive type: avg
+adaptive size: (6, 6)
+Hidden sizes: [50, 1000, 25]
+Activations: ['relu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.005
+momentum: 0.8
+Epochs: 20
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 6/20
+FITNESS: 0.243885
+Filters: [8, 64, 4, 256, 2, 2]
+Kernels: [3, 4, 3, 3, 4, 5]
+Dropouts: ['none', '0.2', 'none', 'none', '0.1', 'none']
+Norms: ['instance', 'instance', 'batch', 'instance', 'batch', 'none']
+adaptive type: avg
+adaptive size: (10, 10)
+Hidden sizes: [25, 100, 50]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu']
+Optimizer: sgd
+learning rate: 0.0005
+momentum: 0.9
+Epochs: 10
+TRAIN METRICS ======
+Correct: 22/50
+Accuracy: 44.0%
+F1: 0.354167
+Precision: 0.354167
+Recall: 0.354167
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 7/20
+FITNESS: 0.303030
+Filters: [16, 2, 32]
+Kernels: [5, 4, 4]
+Dropouts: ['none', 'none', '0.1']
+Norms: ['instance', 'batch', 'batch']
+adaptive type: avg
+adaptive size: (7, 7)
+Hidden sizes: [100, 50, 50]
+Activations: ['relu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.005
+momentum: 0.4
+Epochs: 50
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 8/20
+FITNESS: 0.252501
+Filters: [2, 32, 8, 256, 2, 4]
+Kernels: [3, 4, 4, 4, 3, 4]
+Dropouts: ['0.25', 'none', '0.1', 'none', 'none', 'none']
+Norms: ['batch', 'batch', 'none', 'none', 'none', 'instance']
+adaptive type: avg
+adaptive size: (6, 6)
+Hidden sizes: [25, 50]
+Activations: ['selu', 'prelu', 'relu', 'relu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.0002
+momentum: 0.8
+Epochs: 50
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 9/20
+FITNESS: 0.568278
+Filters: [128, 8, 16, 16, 32]
+Kernels: [5, 3, 4, 5, 3]
+Dropouts: ['none', 'none', 'none', '0.2', 'none']
+Norms: ['none', 'batch', 'none', 'batch', 'none']
+adaptive type: avg
+adaptive size: (6, 6)
+Hidden sizes: [25, 500, 25]
+Activations: ['prelu', 'prelu', 'relu', 'relu', 'relu']
+Optimizer: adam
+learning rate: 0.01
+momentum: 0.9
+Epochs: 15
+TRAIN METRICS ======
+Correct: 27/50
+Accuracy: 54.0%
+F1: 0.487249
+Precision: 0.487249
+Recall: 0.487249
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.442857
+Precision: 0.583333
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 10/20
+FITNESS: 0.252501
+Filters: [4, 16, 4, 16, 256, 128]
+Kernels: [3, 3, 5, 4, 4, 5]
+Dropouts: ['none', '0.5', 'none', 'none', 'none', 'none']
+Norms: ['batch', 'none', 'batch', 'instance', 'none', 'batch']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [25, 500, 100]
+Activations: ['relu', 'selu', 'relu', 'prelu', 'relu', 'prelu']
+Optimizer: sgd
+learning rate: 0.001
+momentum: 0.75
+Epochs: 2
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 11/20
+FITNESS: 0.256085
+Filters: [32, 8, 64, 16, 4, 128]
+Kernels: [4, 3, 4, 3, 4, 3]
+Dropouts: ['none', 'none', 'none', '0.1', 'none', 'none']
+Norms: ['none', 'none', 'batch', 'none', 'batch', 'none']
+adaptive type: avg
+adaptive size: (7, 7)
+Hidden sizes: [500, 100, 1000]
+Activations: ['relu', 'prelu', 'prelu', 'prelu', 'prelu', 'relu']
+Optimizer: sgd
+learning rate: 0.0002
+momentum: 0.8
+Epochs: 10
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 12/20
+FITNESS: 0.303030
+Filters: [8, 2, 4]
+Kernels: [5, 5, 5]
+Dropouts: ['none', '0.1', '0.2']
+Norms: ['none', 'batch', 'batch']
+adaptive type: max
+adaptive size: (8, 8)
+Hidden sizes: [500, 1000, 50, 100]
+Activations: ['prelu', 'prelu', 'relu']
+Optimizer: rmsprop
+learning rate: 0.01
+momentum: 0.9
+Epochs: 50
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 13/20
+FITNESS: 0.276307
+Filters: [4, 4, 32, 32]
+Kernels: [5, 3, 4, 3]
+Dropouts: ['none', '0.1', '0.1', 'none']
+Norms: ['batch', 'none', 'none', 'none']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [50, 100]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.001
+momentum: 0.75
+Epochs: 20
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 14/20
+FITNESS: 0.256085
+Filters: [2, 4, 128, 256, 8, 2]
+Kernels: [3, 5, 5, 5, 5, 5]
+Dropouts: ['0.1', '0.2', 'none', 'none', 'none', 'none']
+Norms: ['none', 'batch', 'none', 'none', 'none', 'none']
+adaptive type: max
+adaptive size: (3, 3)
+Hidden sizes: [250, 25, 25]
+Activations: ['prelu', 'prelu', 'prelu', 'relu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.0002
+momentum: 0.75
+Epochs: 3
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 15/20
+FITNESS: 0.303030
+Filters: [32, 256, 32, 4]
+Kernels: [3, 4, 4, 3]
+Dropouts: ['none', 'none', 'none', '0.2']
+Norms: ['none', 'none', 'none', 'instance']
+adaptive type: max
+adaptive size: (7, 7)
+Hidden sizes: [100, 100]
+Activations: ['prelu', 'prelu', 'prelu', 'relu']
+Optimizer: adam
+learning rate: 0.001
+momentum: 0.8
+Epochs: 2
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 16/20
+FITNESS: 0.263242
+Filters: [64, 2, 256, 8]
+Kernels: [3, 4, 4, 3]
+Dropouts: ['none', 'none', 'none', 'none']
+Norms: ['none', 'instance', 'batch', 'none']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [100, 1000, 500]
+Activations: ['relu', 'relu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.001
+momentum: 0.75
+Epochs: 3
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 3/16
+Accuracy: 18.8%
+F1: 0.078947
+Precision: 0.050000
+Recall: 0.187500
+=======================
+=======================
+CHROMOSOME 17/20
+FITNESS: 0.303030
+Filters: [2, 128, 4]
+Kernels: [5, 3, 5]
+Dropouts: ['none', '0.25', 'none']
+Norms: ['none', 'batch', 'batch']
+adaptive type: max
+adaptive size: (5, 5)
+Hidden sizes: [250, 50, 500]
+Activations: ['prelu', 'relu', 'relu']
+Optimizer: adam
+learning rate: 0.002
+momentum: 0.4
+Epochs: 2
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 18/20
+FITNESS: 0.450241
+Filters: [128, 2, 128, 128, 8, 64]
+Kernels: [3, 5, 3, 4, 5, 3]
+Dropouts: ['0.25', 'none', 'none', '0.5', '0.1', 'none']
+Norms: ['instance', 'none', 'instance', 'batch', 'batch', 'batch']
+adaptive type: avg
+adaptive size: (3, 3)
+Hidden sizes: [1000, 25]
+Activations: ['relu', 'selu', 'selu', 'relu', 'prelu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.002
+momentum: 0.8
+Epochs: 15
+TRAIN METRICS ======
+Correct: 29/50
+Accuracy: 58.0%
+F1: 0.536373
+Precision: 0.536373
+Recall: 0.536373
+TEST METRICS ======
+Correct: 6/16
+Accuracy: 37.5%
+F1: 0.321429
+Precision: 0.295833
+Recall: 0.375000
+=======================
+=======================
+CHROMOSOME 19/20
+FITNESS: 0.502442
+Filters: [16, 256, 32, 8]
+Kernels: [4, 5, 3, 3]
+Dropouts: ['none', '0.5', 'none', 'none']
+Norms: ['none', 'none', 'none', 'batch']
+adaptive type: avg
+adaptive size: (4, 4)
+Hidden sizes: [500, 25, 25, 1000]
+Activations: ['selu', 'prelu', 'prelu', 'relu']
+Optimizer: adam
+learning rate: 0.0002
+momentum: 0.75
+Epochs: 25
+TRAIN METRICS ======
+Correct: 41/50
+Accuracy: 82.0%
+F1: 0.829167
+Precision: 0.829167
+Recall: 0.829167
+TEST METRICS ======
+Correct: 6/16
+Accuracy: 37.5%
+F1: 0.332540
+Precision: 0.308333
+Recall: 0.375000
+=======================
+=======================
+CHROMOSOME 20/20
+FITNESS: 0.649600
+Filters: [8, 256]
+Kernels: [3, 3]
+Dropouts: ['none', '0.5']
+Norms: ['batch', 'batch']
+adaptive type: avg
+adaptive size: (4, 4)
+Hidden sizes: [1000, 25, 25, 25]
+Activations: ['relu', 'selu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.75
+Epochs: 50
+TRAIN METRICS ======
+Correct: 50/50
+Accuracy: 100.0%
+F1: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.458333
+Precision: 0.525000
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 1/6
+FITNESS: 0.894695
+Filters: [2, 32, 8]
+Kernels: [3, 3, 3]
+Dropouts: ['none', '0.2', 'none']
+Norms: ['none', 'batch', 'none']
+adaptive type: max
+adaptive size: (3, 3)
+Hidden sizes: [100, 500, 250]
+Activations: ['prelu', 'prelu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.4
+Epochs: 20
+TRAIN METRICS ======
+Correct: 59461/60000
+Accuracy: 99.1%
+F1: 0.990916
+Precision: 0.990916
+Recall: 0.990916
+TEST METRICS ======
+Correct: 9868/10000
+Accuracy: 98.7%
+F1: 0.986656
+Precision: 0.986744
+Recall: 0.986623
+=======================
+=======================
+CHROMOSOME 2/6
+FITNESS: 0.225745
+Filters: [8, 8, 128, 16]
+Kernels: [3, 3, 3, 3]
+Dropouts: ['none', 'none', 'none', '0.25']
+Norms: ['none', 'none', 'none', 'batch']
+adaptive type: max
+adaptive size: (4, 4)
+Hidden sizes: [500, 250, 50, 25, 500]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.002
+momentum: 0.8
+Epochs: 5
+TRAIN METRICS ======
+Correct: 6742/60000
+Accuracy: 11.2%
+F1: 0.011237
+Precision: 0.011237
+Recall: 0.011237
+TEST METRICS ======
+Correct: 1135/10000
+Accuracy: 11.4%
+F1: 0.020386
+Precision: 0.011350
+Recall: 0.100000
+=======================
+=======================
+CHROMOSOME 3/6
+FITNESS: 0.880481
+Filters: [2, 2, 32, 16, 64, 16]
+Kernels: [3, 3, 3, 3, 3, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none']
+Norms: ['instance', 'none', 'none', 'none', 'none', 'batch']
+adaptive type: max
+adaptive size: (8, 8)
+Hidden sizes: [50, 250, 50]
+Activations: ['prelu', 'prelu', 'relu', 'prelu', 'prelu', 'selu']
+Optimizer: adam
+learning rate: 0.001
+momentum: 0.9
+Epochs: 15
+TRAIN METRICS ======
+Correct: 59808/60000
+Accuracy: 99.7%
+F1: 0.996783
+Precision: 0.996783
+Recall: 0.996783
+TEST METRICS ======
+Correct: 9882/10000
+Accuracy: 98.8%
+F1: 0.988093
+Precision: 0.987977
+Recall: 0.988273
+=======================
+=======================
+CHROMOSOME 4/6
+FITNESS: 0.914027
+Filters: [32, 16]
+Kernels: [3, 5]
+Dropouts: ['none', 'none']
+Norms: ['instance', 'none']
+adaptive type: max
+adaptive size: (8, 8)
+Hidden sizes: [25, 50, 100]
+Activations: ['prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.001
+momentum: 0.4
+Epochs: 10
+TRAIN METRICS ======
+Correct: 59526/60000
+Accuracy: 99.2%
+F1: 0.992057
+Precision: 0.992057
+Recall: 0.992057
+TEST METRICS ======
+Correct: 9873/10000
+Accuracy: 98.7%
+F1: 0.987188
+Precision: 0.987210
+Recall: 0.987261
+=======================
+=======================
+CHROMOSOME 5/6
+FITNESS: 0.869291
+Filters: [4, 8, 16, 8, 4, 64, 4, 64]
+Kernels: [3, 3, 3, 5, 3, 3, 3, 3]
+Dropouts: ['none', 'none', '0.2', '0.1', 'none', '0.5', 'none', 'none']
+Norms: ['none', 'none', 'none', 'none', 'instance', 'batch', 'none', 'none']
+adaptive type: avg
+adaptive size: (9, 9)
+Hidden sizes: [250, 25, 250, 250]
+Activations: ['prelu', 'relu', 'prelu', 'prelu', 'selu', 'prelu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.0002
+momentum: 0.5
+Epochs: 10
+TRAIN METRICS ======
+Correct: 59310/60000
+Accuracy: 98.8%
+F1: 0.988442
+Precision: 0.988442
+Recall: 0.988442
+TEST METRICS ======
+Correct: 9855/10000
+Accuracy: 98.6%
+F1: 0.985500
+Precision: 0.985667
+Recall: 0.985393
+=======================
+=======================
+CHROMOSOME 6/6
+FITNESS: 0.867866
+Filters: [64, 16, 4, 4, 32, 64, 16]
+Kernels: [3, 5, 5, 1, 5, 5, 3]
+Dropouts: ['none', 'none', '0.1', 'none', 'none', '0.2', 'none']
+Norms: ['instance', 'instance', 'batch', 'none', 'batch', 'instance', 'instance']
+adaptive type: avg
+adaptive size: (4, 4)
+Hidden sizes: [50, 100, 100, 1000]
+Activations: ['selu', 'prelu', 'prelu', 'selu', 'prelu', 'prelu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.8
+Epochs: 2
+TRAIN METRICS ======
+Correct: 58431/60000
+Accuracy: 97.4%
+F1: 0.973670
+Precision: 0.973670
+Recall: 0.973670
+TEST METRICS ======
+Correct: 9821/10000
+Accuracy: 98.2%
+F1: 0.981953
+Precision: 0.982173
+Recall: 0.981847
+=======================
+=======================
+CHROMOSOME 1/11
+FITNESS: 0.356756
+Filters: [16, 2, 8, 32]
+Kernels: [3, 3, 1, 3]
+Dropouts: ['none', '0.5', 'none', '0.1']
+Norms: ['none', 'batch', 'none', 'batch']
+adaptive type: avg
+adaptive size: (10, 10)
+Hidden sizes: [50, 250, 250, 100]
+Activations: ['prelu', 'selu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.0002
+momentum: 0.5
+Epochs: 15
+TRAIN METRICS ======
+Correct: 33/50
+Accuracy: 66.0%
+F1: 0.525000
+Precision: 0.525000
+Recall: 0.525000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.177083
+Precision: 0.187500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 2/11
+FITNESS: 0.559299
+Filters: [128, 512, 4, 64, 16, 512]
+Kernels: [3, 3, 1, 5, 3, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none']
+Norms: ['none', 'none', 'batch', 'none', 'instance', 'instance']
+adaptive type: avg
+adaptive size: (3, 3)
+Hidden sizes: [1000, 1000]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.002
+momentum: 0.9
+Epochs: 15
+TRAIN METRICS ======
+Correct: 42/50
+Accuracy: 84.0%
+F1: 0.896853
+Precision: 0.896853
+Recall: 0.896853
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.436111
+Precision: 0.558333
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 3/11
+FITNESS: 0.249313
+Filters: [32, 256, 128, 256, 2, 32, 2]
+Kernels: [5, 3, 3, 3, 3, 3, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none', 'none']
+Norms: ['none', 'batch', 'none', 'none', 'batch', 'instance', 'instance']
+adaptive type: avg
+adaptive size: (10, 10)
+Hidden sizes: [500, 250, 50, 25, 500]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 4/11
+FITNESS: 0.252501
+Filters: [64, 16, 4, 512, 2, 128]
+Kernels: [3, 5, 3, 3, 3, 5]
+Dropouts: ['none', 'none', 'none', '0.2', 'none', 'none']
+Norms: ['batch', 'none', 'batch', 'batch', 'none', 'instance']
+adaptive type: max
+adaptive size: (5, 5)
+Hidden sizes: [500, 500, 100]
+Activations: ['prelu', 'relu', 'prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.005
+momentum: 0.4
+Epochs: 5
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 5/11
+FITNESS: 0.503464
+Filters: [256, 16, 64, 16, 16, 32, 2, 64]
+Kernels: [3, 3, 1, 3, 5, 3, 3, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none', 'none', 'none']
+Norms: ['none', 'batch', 'none', 'batch', 'none', 'instance', 'none', 'none']
+adaptive type: avg
+adaptive size: (7, 7)
+Hidden sizes: [250, 1000]
+Activations: ['prelu', 'prelu', 'prelu', 'relu', 'prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.005
+momentum: 0.5
+Epochs: 2
+TRAIN METRICS ======
+Correct: 16/50
+Accuracy: 32.0%
+F1: 0.134398
+Precision: 0.134398
+Recall: 0.134398
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.383766
+Precision: 0.363095
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 6/11
+FITNESS: 0.313635
+Filters: [32, 512, 512]
+Kernels: [5, 3, 5]
+Dropouts: ['none', 'none', 'none']
+Norms: ['batch', 'instance', 'instance']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [100, 50, 50, 25]
+Activations: ['prelu', 'prelu', 'relu']
+Optimizer: rmsprop
+learning rate: 0.005
+momentum: 0.4
+Epochs: 5
+TRAIN METRICS ======
+Correct: 14/50
+Accuracy: 28.0%
+F1: 0.267361
+Precision: 0.267361
+Recall: 0.267361
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.111111
+Precision: 0.071429
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 7/11
+FITNESS: 0.355520
+Filters: [64, 8]
+Kernels: [3, 3]
+Dropouts: ['none', '0.1']
+Norms: ['batch', 'batch']
+adaptive type: max
+adaptive size: (3, 3)
+Hidden sizes: [1000, 1000, 100]
+Activations: ['prelu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.002
+momentum: 0.9
+Epochs: 10
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 8/11
+FITNESS: 0.637953
+Filters: [16, 4, 32, 128, 512, 64, 8]
+Kernels: [1, 3, 5, 3, 1, 3, 3]
+Dropouts: ['none', '0.1', '0.2', 'none', 'none', 'none', 'none']
+Norms: ['none', 'instance', 'instance', 'batch', 'instance', 'none', 'none']
+adaptive type: avg
+adaptive size: (3, 3)
+Hidden sizes: [25, 500]
+Activations: ['prelu', 'prelu', 'selu', 'prelu', 'relu', 'prelu', 'selu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.9
+Epochs: 20
+TRAIN METRICS ======
+Correct: 50/50
+Accuracy: 100.0%
+F1: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+TEST METRICS ======
+Correct: 9/16
+Accuracy: 56.2%
+F1: 0.560714
+Precision: 0.583333
+Recall: 0.562500
+=======================
+=======================
+CHROMOSOME 9/11
+FITNESS: 0.508963
+Filters: [128, 8, 4]
+Kernels: [3, 3, 5]
+Dropouts: ['none', 'none', 'none']
+Norms: ['none', 'instance', 'none']
+adaptive type: max
+adaptive size: (10, 10)
+Hidden sizes: [25, 100, 500, 250, 25]
+Activations: ['prelu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.0002
+momentum: 0.5
+Epochs: 15
+TRAIN METRICS ======
+Correct: 38/50
+Accuracy: 76.0%
+F1: 0.577614
+Precision: 0.577614
+Recall: 0.577614
+TEST METRICS ======
+Correct: 6/16
+Accuracy: 37.5%
+F1: 0.315385
+Precision: 0.416667
+Recall: 0.375000
+=======================
+=======================
+CHROMOSOME 10/11
+FITNESS: 0.370198
+Filters: [64, 4, 128, 16, 128, 512]
+Kernels: [3, 3, 3, 3, 3, 3]
+Dropouts: ['0.25', '0.1', 'none', '0.2', 'none', '0.25']
+Norms: ['none', 'none', 'batch', 'batch', 'none', 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [50, 50]
+Activations: ['prelu', 'prelu', 'selu', 'prelu', 'prelu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0001
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 21/50
+Accuracy: 42.0%
+F1: 0.208333
+Precision: 0.208333
+Recall: 0.208333
+TEST METRICS ======
+Correct: 5/16
+Accuracy: 31.2%
+F1: 0.226923
+Precision: 0.180556
+Recall: 0.312500
+=======================
+=======================
+CHROMOSOME 11/11
+=======================
+CHROMOSOME 1/11
+FITNESS: 0.480123
+Filters: [8, 512, 16, 2, 256, 32, 4]
+Kernels: [3, 3, 3, 3, 1, 1, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none', 'none']
+Norms: ['batch', 'batch', 'batch', 'none', 'batch', 'batch', 'none']
+adaptive type: avg
+adaptive size: (10, 10)
+Hidden sizes: [250, 500, 25]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu']
+Optimizer: adam
+learning rate: 0.005
+momentum: 0.5
+Epochs: 20
+TRAIN METRICS ======
+Correct: 49/50
+Accuracy: 98.0%
+F1: 0.988095
+Precision: 0.988095
+Recall: 0.988095
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.356061
+Precision: 0.339286
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 2/11
+FITNESS: 0.303030
+Filters: [16, 4, 32]
+Kernels: [3, 3, 3]
+Dropouts: ['0.2', 'none', 'none']
+Norms: ['none', 'instance', 'none']
+adaptive type: avg
+adaptive size: (3, 3)
+Hidden sizes: [1000, 250, 500, 50, 25]
+Activations: ['prelu', 'relu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0002
+momentum: 0.5
+Epochs: 2
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 3/11
+FITNESS: 0.571044
+Filters: [128, 8, 4, 8]
+Kernels: [5, 3, 3, 1]
+Dropouts: ['none', 'none', 'none', 'none']
+Norms: ['instance', 'batch', 'batch', 'batch']
+adaptive type: max
+adaptive size: (4, 4)
+Hidden sizes: [50, 50, 1000, 250]
+Activations: ['selu', 'prelu', 'selu', 'relu']
+Optimizer: adam
+learning rate: 0.001
+momentum: 0.9
+Epochs: 15
+TRAIN METRICS ======
+Correct: 50/50
+Accuracy: 100.0%
+F1: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.434524
+Precision: 0.510417
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 4/11
+FITNESS: 0.471889
+Filters: [128, 512, 32, 32]
+Kernels: [1, 1, 3, 3]
+Dropouts: ['0.1', 'none', '0.5', 'none']
+Norms: ['batch', 'batch', 'batch', 'none']
+adaptive type: max
+adaptive size: (4, 4)
+Hidden sizes: [500, 25, 50, 50]
+Activations: ['relu', 'prelu', 'relu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.75
+Epochs: 20
+TRAIN METRICS ======
+Correct: 37/50
+Accuracy: 74.0%
+F1: 0.728022
+Precision: 0.728022
+Recall: 0.728022
+TEST METRICS ======
+Correct: 6/16
+Accuracy: 37.5%
+F1: 0.325000
+Precision: 0.583333
+Recall: 0.375000
+=======================
+=======================
+CHROMOSOME 5/11
+FITNESS: 0.283623
+Filters: [128, 512, 128, 64]
+Kernels: [3, 3, 3, 3]
+Dropouts: ['none', 'none', 'none', 'none']
+Norms: ['batch', 'none', 'instance', 'none']
+adaptive type: avg
+adaptive size: (6, 6)
+Hidden sizes: [50, 500, 500, 100]
+Activations: ['prelu', 'relu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.005
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 6/11
+FITNESS: 0.264769
+Filters: [512, 32, 8, 256, 2]
+Kernels: [3, 3, 3, 5, 3]
+Dropouts: ['none', '0.5', 'none', 'none', '0.1']
+Norms: ['none', 'batch', 'none', 'instance', 'none']
+adaptive type: avg
+adaptive size: (3, 3)
+Hidden sizes: [500, 500, 1000, 100, 1000]
+Activations: ['prelu', 'relu', 'prelu', 'selu', 'prelu']
+Optimizer: sgd
+learning rate: 0.0002
+momentum: 0.75
+Epochs: 5
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 7/11
+FITNESS: 0.582562
+Filters: [64, 16, 512, 256, 512, 512, 128, 2, 2]
+Kernels: [1, 3, 1, 3, 1, 3, 3, 5, 5]
+Dropouts: ['0.1', 'none', '0.1', 'none', '0.5', 'none', 'none', 'none', '0.2']
+Norms: ['none', 'none', 'batch', 'instance', 'none', 'instance', 'none', 'none', 'instance']
+adaptive type: avg
+adaptive size: (7, 7)
+Hidden sizes: [250, 25]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.5
+Epochs: 20
+TRAIN METRICS ======
+Correct: 50/50
+Accuracy: 100.0%
+F1: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+TEST METRICS ======
+Correct: 8/16
+Accuracy: 50.0%
+F1: 0.492857
+Precision: 0.625000
+Recall: 0.500000
+=======================
+=======================
+CHROMOSOME 8/11
+FITNESS: 0.246457
+Filters: [16, 16, 8, 128, 2, 32, 512]
+Kernels: [1, 3, 1, 3, 3, 5, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none', '0.25']
+Norms: ['batch', 'none', 'instance', 'batch', 'instance', 'none', 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [50, 250, 50, 100, 250]
+Activations: ['selu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.0001
+momentum: 0.75
+Epochs: 3
+TRAIN METRICS ======
+Correct: 22/50
+Accuracy: 44.0%
+F1: 0.354167
+Precision: 0.354167
+Recall: 0.354167
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 9/11
+FITNESS: 0.241556
+Filters: [256, 128, 256, 64, 128, 4, 8]
+Kernels: [3, 5, 3, 3, 5, 3, 3]
+Dropouts: ['0.5', 'none', 'none', '0.1', 'none', 'none', 'none']
+Norms: ['batch', 'none', 'batch', 'none', 'batch', 'batch', 'none']
+adaptive type: avg
+adaptive size: (8, 8)
+Hidden sizes: [25, 250, 50, 250, 250]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu', 'relu']
+Optimizer: sgd
+learning rate: 0.001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 10/11
+FITNESS: 0.292375
+Filters: [64, 2, 128, 64]
+Kernels: [3, 3, 3, 1]
+Dropouts: ['none', '0.5', 'none', 'none']
+Norms: ['none', 'none', 'none', 'none']
+adaptive type: max
+adaptive size: (4, 4)
+Hidden sizes: [50, 25, 250, 100, 500]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.0002
+momentum: 0.4
+Epochs: 3
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 1/11
+FITNESS: 0.480123
+Filters: [8, 512, 16, 2, 256, 32, 4]
+Kernels: [3, 3, 3, 3, 1, 1, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none', 'none']
+Norms: ['batch', 'batch', 'batch', 'none', 'batch', 'batch', 'none']
+adaptive type: avg
+adaptive size: (10, 10)
+Hidden sizes: [250, 500, 25]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu']
+Optimizer: adam
+learning rate: 0.005
+momentum: 0.5
+Epochs: 20
+TRAIN METRICS ======
+Correct: 49/50
+Accuracy: 98.0%
+F1: 0.988095
+Precision: 0.988095
+Recall: 0.988095
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.356061
+Precision: 0.339286
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 2/11
+FITNESS: 0.303030
+Filters: [16, 4, 32]
+Kernels: [3, 3, 3]
+Dropouts: ['0.2', 'none', 'none']
+Norms: ['none', 'instance', 'none']
+adaptive type: avg
+adaptive size: (3, 3)
+Hidden sizes: [1000, 250, 500, 50, 25]
+Activations: ['prelu', 'relu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0002
+momentum: 0.5
+Epochs: 2
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 3/11
+FITNESS: 0.571044
+Filters: [128, 8, 4, 8]
+Kernels: [5, 3, 3, 1]
+Dropouts: ['none', 'none', 'none', 'none']
+Norms: ['instance', 'batch', 'batch', 'batch']
+adaptive type: max
+adaptive size: (4, 4)
+Hidden sizes: [50, 50, 1000, 250]
+Activations: ['selu', 'prelu', 'selu', 'relu']
+Optimizer: adam
+learning rate: 0.001
+momentum: 0.9
+Epochs: 15
+TRAIN METRICS ======
+Correct: 50/50
+Accuracy: 100.0%
+F1: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+TEST METRICS ======
+Correct: 7/16
+Accuracy: 43.8%
+F1: 0.434524
+Precision: 0.510417
+Recall: 0.437500
+=======================
+=======================
+CHROMOSOME 4/11
+FITNESS: 0.471889
+Filters: [128, 512, 32, 32]
+Kernels: [1, 1, 3, 3]
+Dropouts: ['0.1', 'none', '0.5', 'none']
+Norms: ['batch', 'batch', 'batch', 'none']
+adaptive type: max
+adaptive size: (4, 4)
+Hidden sizes: [500, 25, 50, 50]
+Activations: ['relu', 'prelu', 'relu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.75
+Epochs: 20
+TRAIN METRICS ======
+Correct: 37/50
+Accuracy: 74.0%
+F1: 0.728022
+Precision: 0.728022
+Recall: 0.728022
+TEST METRICS ======
+Correct: 6/16
+Accuracy: 37.5%
+F1: 0.325000
+Precision: 0.583333
+Recall: 0.375000
+=======================
+=======================
+CHROMOSOME 5/11
+FITNESS: 0.283623
+Filters: [128, 512, 128, 64]
+Kernels: [3, 3, 3, 3]
+Dropouts: ['none', 'none', 'none', 'none']
+Norms: ['batch', 'none', 'instance', 'none']
+adaptive type: avg
+adaptive size: (6, 6)
+Hidden sizes: [50, 500, 500, 100]
+Activations: ['prelu', 'relu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.005
+momentum: 0.5
+Epochs: 3
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 6/11
+FITNESS: 0.264769
+Filters: [512, 32, 8, 256, 2]
+Kernels: [3, 3, 3, 5, 3]
+Dropouts: ['none', '0.5', 'none', 'none', '0.1']
+Norms: ['none', 'batch', 'none', 'instance', 'none']
+adaptive type: avg
+adaptive size: (3, 3)
+Hidden sizes: [500, 500, 1000, 100, 1000]
+Activations: ['prelu', 'relu', 'prelu', 'selu', 'prelu']
+Optimizer: sgd
+learning rate: 0.0002
+momentum: 0.75
+Epochs: 5
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+Precision: 0.100000
+Recall: 0.100000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 7/11
+FITNESS: 0.582562
+Filters: [64, 16, 512, 256, 512, 512, 128, 2, 2]
+Kernels: [1, 3, 1, 3, 1, 3, 3, 5, 5]
+Dropouts: ['0.1', 'none', '0.1', 'none', '0.5', 'none', 'none', 'none', '0.2']
+Norms: ['none', 'none', 'batch', 'instance', 'none', 'instance', 'none', 'none', 'instance']
+adaptive type: avg
+adaptive size: (7, 7)
+Hidden sizes: [250, 25]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.5
+Epochs: 20
+TRAIN METRICS ======
+Correct: 50/50
+Accuracy: 100.0%
+F1: 1.000000
+Precision: 1.000000
+Recall: 1.000000
+TEST METRICS ======
+Correct: 8/16
+Accuracy: 50.0%
+F1: 0.492857
+Precision: 0.625000
+Recall: 0.500000
+=======================
+=======================
+CHROMOSOME 8/11
+FITNESS: 0.246457
+Filters: [16, 16, 8, 128, 2, 32, 512]
+Kernels: [1, 3, 1, 3, 3, 5, 3]
+Dropouts: ['none', 'none', 'none', 'none', 'none', 'none', '0.25']
+Norms: ['batch', 'none', 'instance', 'batch', 'instance', 'none', 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+Hidden sizes: [50, 250, 50, 100, 250]
+Activations: ['selu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu', 'prelu']
+Optimizer: adam
+learning rate: 0.0001
+momentum: 0.75
+Epochs: 3
+TRAIN METRICS ======
+Correct: 22/50
+Accuracy: 44.0%
+F1: 0.354167
+Precision: 0.354167
+Recall: 0.354167
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 9/11
+FITNESS: 0.241556
+Filters: [256, 128, 256, 64, 128, 4, 8]
+Kernels: [3, 5, 3, 3, 5, 3, 3]
+Dropouts: ['0.5', 'none', 'none', '0.1', 'none', 'none', 'none']
+Norms: ['batch', 'none', 'batch', 'none', 'batch', 'batch', 'none']
+adaptive type: avg
+adaptive size: (8, 8)
+Hidden sizes: [25, 250, 50, 250, 250]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu', 'relu']
+Optimizer: sgd
+learning rate: 0.001
+momentum: 0.9
+Epochs: 2
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 10/11
+FITNESS: 0.292375
+Filters: [64, 2, 128, 64]
+Kernels: [3, 3, 3, 1]
+Dropouts: ['none', '0.5', 'none', 'none']
+Norms: ['none', 'none', 'none', 'none']
+adaptive type: max
+adaptive size: (4, 4)
+Hidden sizes: [50, 25, 250, 100, 500]
+Activations: ['prelu', 'prelu', 'prelu', 'prelu']
+Optimizer: sgd
+learning rate: 0.0002
+momentum: 0.4
+Epochs: 3
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+Precision: 0.050000
+Recall: 0.050000
+TEST METRICS ======
+Correct: 4/16
+Accuracy: 25.0%
+F1: 0.100000
+Precision: 0.062500
+Recall: 0.250000
+=======================
+=======================
+CHROMOSOME 1/10
+FITNESS: 0.260140
+filters: [4, 2, 32, 16, 16]
+kernels: [3, 3, 5, 3, 5]
+dropouts: ['none', '0.5', 'none', 'none', '0.1']
+norms: ['instance', 'batch', 'none', 'batch', 'none']
+adaptive type: avg
+adaptive size: (9, 9)
+hidden sizes: [500, 250, 25, 25]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+optimizer: sgd
+learning rate: 0.001
+momentum: 0.9
+epochs: 5
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.051020
+precision: 0.051020
+recall: 0.051020
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 2/10
+FITNESS: 0.256085
+filters: [256, 8, 32, 128, 8, 2]
+kernels: [3, 3, 3, 1, 3, 5]
+dropouts: ['none', 'none', 'none', 'none', 'none', '0.5']
+norms: ['none', 'batch', 'batch', 'batch', 'none', 'batch']
+adaptive type: max
+adaptive size: (6, 6)
+hidden sizes: [500, 250]
+activations: ['relu', 'prelu', 'selu', 'relu', 'selu', 'prelu']
+optimizer: sgd
+learning rate: 0.005
+momentum: 0.5
+epochs: 2
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+precision: 0.050000
+recall: 0.050000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 3/10
+FITNESS: 0.283623
+filters: [32, 16, 64, 256]
+kernels: [3, 5, 3, 3]
+dropouts: ['0.5', 'none', '0.2', '0.1']
+norms: ['none', 'none', 'none', 'batch']
+adaptive type: max
+adaptive size: (3, 3)
+hidden sizes: [500, 25, 50, 1000, 500]
+activations: ['prelu', 'prelu', 'prelu', 'prelu']
+optimizer: sgd
+learning rate: 0.0002
+momentum: 0.75
+epochs: 2
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+precision: 0.050000
+recall: 0.050000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 4/10
+FITNESS: 0.548758
+filters: [32, 16]
+kernels: [3, 5]
+dropouts: ['none', 'none']
+norms: ['batch', 'none']
+adaptive type: max
+adaptive size: (5, 5)
+hidden sizes: [25, 100]
+activations: ['prelu', 'prelu']
+optimizer: adam
+learning rate: 0.0002
+momentum: 0.75
+epochs: 25
+TRAIN METRICS ======
+Correct: 42/50
+Accuracy: 84.0%
+F1: 0.910185
+precision: 0.910185
+recall: 0.910185
+TEST METRICS ======
+correct: 5/16
+accuracy: 31.2%
+F1: 0.322756
+precision: 0.493056
+recall: 0.312500
+=======================
+=======================
+CHROMOSOME 5/10
+FITNESS: 0.246457
+filters: [2, 64, 128, 2, 512, 32, 8]
+kernels: [5, 3, 3, 3, 5, 5, 3]
+dropouts: ['none', 'none', 'none', 'none', '0.5', 'none', 'none']
+norms: ['instance', 'batch', 'none', 'instance', 'none', 'none', 'none']
+adaptive type: avg
+adaptive size: (4, 4)
+hidden sizes: [100, 50, 500, 500]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu', 'relu']
+optimizer: rmsprop
+learning rate: 0.005
+momentum: 0.9
+epochs: 15
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+precision: 0.100000
+recall: 0.100000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 6/10
+FITNESS: 0.283623
+filters: [256, 64, 16, 32]
+kernels: [3, 3, 3, 3]
+dropouts: ['none', 'none', 'none', 'none']
+norms: ['batch', 'batch', 'none', 'none']
+adaptive type: avg
+adaptive size: (3, 3)
+hidden sizes: [1000, 1000, 25, 250, 250]
+activations: ['selu', 'prelu', 'prelu', 'prelu']
+optimizer: sgd
+learning rate: 0.0002
+momentum: 0.9
+epochs: 5
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+precision: 0.050000
+recall: 0.050000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 7/10
+FITNESS: 0.384132
+filters: [512, 128, 256, 32, 128, 512, 512]
+kernels: [5, 3, 3, 3, 3, 3, 3]
+dropouts: ['none', 'none', '0.5', '0.5', 'none', 'none', '0.25']
+norms: ['batch', 'instance', 'none', 'batch', 'instance', 'none', 'batch']
+adaptive type: avg
+adaptive size: (3, 3)
+hidden sizes: [250, 250, 1000]
+activations: ['prelu', 'relu', 'prelu', 'prelu', 'selu', 'prelu', 'prelu']
+optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.8
+epochs: 2
+TRAIN METRICS ======
+Correct: 15/50
+Accuracy: 30.0%
+F1: 0.262271
+precision: 0.262271
+recall: 0.262271
+TEST METRICS ======
+correct: 5/16
+accuracy: 31.2%
+F1: 0.250000
+precision: 0.250000
+recall: 0.312500
+=======================
+=======================
+CHROMOSOME 8/10
+FITNESS: 0.264769
+filters: [512, 8, 8, 4, 16, 8]
+kernels: [3, 3, 3, 5, 3, 3]
+dropouts: ['none', 'none', 'none', 'none', 'none', 'none']
+norms: ['none', 'none', 'none', 'batch', 'none', 'batch']
+adaptive type: max
+adaptive size: (10, 10)
+hidden sizes: [25, 1000, 500, 25, 250]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+optimizer: sgd
+learning rate: 0.001
+momentum: 0.75
+epochs: 20
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+precision: 0.100000
+recall: 0.100000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 9/10
+FITNESS: 0.252501
+filters: [128, 256, 512, 16, 64, 64]
+kernels: [3, 3, 3, 5, 3, 3]
+dropouts: ['none', 'none', 'none', '0.5', 'none', 'none']
+norms: ['none', 'batch', 'batch', 'none', 'batch', 'batch']
+adaptive type: avg
+adaptive size: (4, 4)
+hidden sizes: [500, 50, 25, 50, 100]
+activations: ['prelu', 'prelu', 'prelu', 'relu', 'prelu', 'prelu']
+optimizer: sgd
+learning rate: 0.001
+momentum: 0.4
+epochs: 5
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+precision: 0.050000
+recall: 0.050000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 10/10
+FITNESS: 0.234092
+filters: [16, 4, 8, 8, 16, 16, 512, 256, 32]
+kernels: [3, 3, 3, 3, 3, 1, 3, 3, 3]
+dropouts: ['none', 'none', '0.5', '0.2', 'none', 'none', 'none', 'none', 'none']
+norms: ['none', 'batch', 'none', 'batch', 'none', 'batch', 'batch', 'none', 'batch']
+adaptive type: max
+adaptive size: (8, 8)
+hidden sizes: [500, 100, 1000]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu', 'selu', 'prelu']
+optimizer: sgd
+learning rate: 0.002
+momentum: 0.5
+epochs: 15
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+precision: 0.100000
+recall: 0.100000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+Evolutionary Mode: crossover
+parent: 1/4
+filters: [4, 2, 32, 16, 16]
+kernels: [3, 3, 5, 3, 5]
+dropouts: ['none', '0.5', 'none', 'none', '0.1']
+norms: ['instance', 'batch', 'none', 'batch', 'none']
+adaptive type: avg
+=======================
+CHROMOSOME 1/10
+FITNESS: 0.292375
+filters: [256, 16, 4, 16]
+kernels: [3, 3, 3, 5]
+dropouts: ['0.25', 'none', 'none', '0.25']
+norms: ['none', 'none', 'none', 'none']
+adaptive type: avg
+adaptive size: (9, 9)
+hidden sizes: [250, 50]
+activations: ['prelu', 'relu', 'prelu', 'relu']
+optimizer: sgd
+learning rate: 0.005
+momentum: 0.4
+epochs: 15
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+precision: 0.050000
+recall: 0.050000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 2/10
+FITNESS: 0.450761
+filters: [128, 8, 2, 16, 32]
+kernels: [3, 3, 3, 1, 3]
+dropouts: ['none', 'none', 'none', '0.25', 'none']
+norms: ['batch', 'batch', 'batch', 'batch', 'batch']
+adaptive type: max
+adaptive size: (7, 7)
+hidden sizes: [500, 500]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+epochs: 25
+TRAIN METRICS ======
+Correct: 40/50
+Accuracy: 80.0%
+F1: 0.815030
+precision: 0.815030
+recall: 0.815030
+TEST METRICS ======
+correct: 5/16
+accuracy: 31.2%
+F1: 0.309524
+precision: 0.316667
+recall: 0.312500
+=======================
+=======================
+CHROMOSOME 3/10
+FITNESS: 0.256085
+filters: [8, 2, 4, 64, 512]
+kernels: [3, 3, 3, 5, 5]
+dropouts: ['none', 'none', '0.1', '0.5', '0.1']
+norms: ['batch', 'batch', 'none', 'batch', 'none']
+adaptive type: max
+adaptive size: (10, 10)
+hidden sizes: [500, 100, 500, 25, 500]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'selu']
+optimizer: rmsprop
+learning rate: 0.0002
+momentum: 0.9
+epochs: 25
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+precision: 0.100000
+recall: 0.100000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 4/10
+FITNESS: 0.534833
+filters: [512, 256]
+kernels: [3, 3]
+dropouts: ['none', 'none']
+norms: ['batch', 'none']
+adaptive type: avg
+adaptive size: (8, 8)
+hidden sizes: [25, 250, 250]
+activations: ['prelu', 'relu']
+optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+epochs: 25
+TRAIN METRICS ======
+Correct: 44/50
+Accuracy: 88.0%
+F1: 0.890720
+precision: 0.890720
+recall: 0.890720
+TEST METRICS ======
+correct: 5/16
+accuracy: 31.2%
+F1: 0.305357
+precision: 0.312500
+recall: 0.312500
+=======================
+=======================
+CHROMOSOME 5/10
+FITNESS: 0.365847
+filters: [256, 8, 4]
+kernels: [3, 5, 5]
+dropouts: ['0.5', '0.25', 'none']
+norms: ['batch', 'none', 'batch']
+adaptive type: avg
+adaptive size: (8, 8)
+hidden sizes: [1000, 250, 100, 50, 500]
+activations: ['prelu', 'prelu', 'prelu']
+optimizer: adam
+learning rate: 0.0002
+momentum: 0.9
+epochs: 20
+TRAIN METRICS ======
+Correct: 27/50
+Accuracy: 54.0%
+F1: 0.287296
+precision: 0.287296
+recall: 0.287296
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.177778
+precision: 0.145455
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 6/10
+FITNESS: 0.341014
+filters: [16, 256, 32, 4]
+kernels: [5, 3, 3, 5]
+dropouts: ['none', '0.25', 'none', 'none']
+norms: ['none', 'batch', 'batch', 'batch']
+adaptive type: avg
+adaptive size: (7, 7)
+hidden sizes: [100, 50, 100, 100, 25]
+activations: ['relu', 'prelu', 'prelu', 'prelu']
+optimizer: adam
+learning rate: 0.001
+momentum: 0.9
+epochs: 10
+TRAIN METRICS ======
+Correct: 25/50
+Accuracy: 50.0%
+F1: 0.239305
+precision: 0.239305
+recall: 0.239305
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.167832
+precision: 0.126984
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 7/10
+FITNESS: 0.550853
+filters: [4, 32, 4, 64, 256]
+kernels: [5, 3, 5, 3, 5]
+dropouts: ['none', 'none', 'none', 'none', 'none']
+norms: ['batch', 'none', 'batch', 'batch', 'none']
+adaptive type: avg
+adaptive size: (10, 10)
+hidden sizes: [50, 25, 25, 500, 50]
+activations: ['selu', 'prelu', 'selu', 'selu', 'prelu']
+optimizer: rmsprop
+learning rate: 0.002
+momentum: 0.4
+epochs: 25
+TRAIN METRICS ======
+Correct: 21/50
+Accuracy: 42.0%
+F1: 0.400000
+precision: 0.400000
+recall: 0.400000
+TEST METRICS ======
+correct: 7/16
+accuracy: 43.8%
+F1: 0.420635
+precision: 0.416667
+recall: 0.437500
+=======================
+=======================
+CHROMOSOME 8/10
+FITNESS: 0.276307
+filters: [256, 128, 8, 64, 64]
+kernels: [5, 3, 3, 1, 3]
+dropouts: ['none', 'none', 'none', 'none', 'none']
+norms: ['none', 'instance', 'none', 'none', 'none']
+adaptive type: max
+adaptive size: (3, 3)
+hidden sizes: [1000, 25, 50]
+activations: ['prelu', 'prelu', 'prelu', 'selu', 'relu']
+optimizer: sgd
+learning rate: 0.0005
+momentum: 0.9
+epochs: 2
+TRAIN METRICS ======
+Correct: 10/50
+Accuracy: 20.0%
+F1: 0.050000
+precision: 0.050000
+recall: 0.050000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 9/10
+FITNESS: 0.333193
+filters: [4, 8, 128]
+kernels: [3, 5, 3]
+dropouts: ['none', 'none', 'none']
+norms: ['none', 'none', 'batch']
+adaptive type: max
+adaptive size: (9, 9)
+hidden sizes: [500, 1000]
+activations: ['prelu', 'prelu', 'prelu']
+optimizer: sgd
+learning rate: 0.005
+momentum: 0.4
+epochs: 3
+TRAIN METRICS ======
+Correct: 20/50
+Accuracy: 40.0%
+F1: 0.100000
+precision: 0.100000
+recall: 0.100000
+TEST METRICS ======
+correct: 4/16
+accuracy: 25.0%
+F1: 0.100000
+precision: 0.062500
+recall: 0.250000
+=======================
+=======================
+CHROMOSOME 10/10
+FITNESS: 0.401929
+filters: [16, 512, 128, 512, 32, 32, 8]
+kernels: [3, 5, 3, 5, 3, 3, 3]
+dropouts: ['none', '0.2', 'none', 'none', 'none', 'none', '0.5']
+norms: ['none', 'instance', 'none', 'none', 'batch', 'batch', 'instance']
+adaptive type: avg
+adaptive size: (4, 4)
+hidden sizes: [50, 1000, 500, 500]
+activations: ['selu', 'prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu']
+optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.4
+epochs: 15
+TRAIN METRICS ======
+Correct: 43/50
+Accuracy: 86.0%
+F1: 0.894345
+precision: 0.894345
+recall: 0.894345
+TEST METRICS ======
+correct: 5/16
+accuracy: 31.2%
+F1: 0.264520
+precision: 0.233929
+recall: 0.312500
+=======================
+Evolutionary Mode: crossover
+parent: 1/4
+filters: [4, 32, 4, 64, 256]
+kernels: [5, 3, 5, 3, 5]
+dropouts: ['none', 'none', 'none', 'none', 'none']
+norms: ['batch', 'none', 'batch', 'batch', 'none']
+adaptive type: avg
+adaptive size: (10, 10)
+hidden sizes: [50, 25, 25, 500, 50]
+activations: ['selu', 'prelu', 'selu', 'selu', 'prelu']
+optimizer: rmsprop
+learning rate: 0.002
+momentum: 0.4
+epochs: 25
+parent: 2/4
+filters: [512, 256]
+kernels: [3, 3]
+dropouts: ['none', 'none']
+norms: ['batch', 'none']
+adaptive type: avg
+adaptive size: (8, 8)
+hidden sizes: [25, 250, 250]
+activations: ['prelu', 'relu']
+optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+epochs: 25
+parent: 3/4
+filters: [128, 8, 2, 16, 32]
+kernels: [3, 3, 3, 1, 3]
+dropouts: ['none', 'none', 'none', '0.25', 'none']
+norms: ['batch', 'batch', 'batch', 'batch', 'batch']
+adaptive type: max
+adaptive size: (7, 7)
+hidden sizes: [500, 500]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+optimizer: adam
+learning rate: 0.01
+momentum: 0.4
+epochs: 25
+parent: 4/4
+filters: [16, 512, 128, 512, 32, 32, 8]
+kernels: [3, 5, 3, 5, 3, 3, 3]
+dropouts: ['none', '0.2', 'none', 'none', 'none', 'none', '0.5']
+norms: ['none', 'instance', 'none', 'none', 'batch', 'batch', 'instance']
+adaptive type: avg
+adaptive size: (4, 4)
+hidden sizes: [50, 1000, 500, 500]
+activations: ['selu', 'prelu', 'prelu', 'prelu', 'prelu', 'selu', 'prelu']
+optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.4
+epochs: 15
+=================
+offspring: 1/3
+filters: [4, 32, 4, 64, 256]
+kernels: [5, 3, 5, 3, 5]
+dropouts: ['none', 'none', 'none', 'none', 'none']
+norms: ['batch', 'none', 'batch', 'batch', 'none']
+adaptive type: avg
+adaptive size: (10, 10)
+hidden sizes: [50, 25, 25, 500, 50]
+activations: ['prelu', 'selu', 'selu', 'relu', 'relu']
+optimizer: adam
+learning rate: 0.001
+momentum: 0.4
+epochs: 25
+offspring: 2/3
+filters: [512, 256]
+kernels: [3, 3]
+dropouts: ['none', 'none']
+norms: ['batch', 'none']
+adaptive type: avg
+adaptive size: (8, 8)
+hidden sizes: [25, 250, 250]
+activations: ['prelu', 'relu']
+optimizer: adam
+learning rate: 0.0005
+momentum: 0.4
+epochs: 25
+offspring: 3/3
+filters: [128, 8, 2, 16, 32]
+kernels: [3, 3, 3, 1, 3]
+dropouts: ['none', 'none', 'none', '0.25', 'none']
+norms: ['batch', 'batch', 'batch', 'batch', 'batch']
+adaptive type: max
+adaptive size: (7, 7)
+hidden sizes: [500, 500]
+activations: ['prelu', 'prelu', 'prelu', 'prelu', 'prelu']
+optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.4
+epochs: 5

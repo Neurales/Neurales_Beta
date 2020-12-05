@@ -1,0 +1,376 @@
+=============
+CHROMOSOME 1/6
+FITNESS: 0.015721
+img size: (40, 40)
+GENERATOR:
+filters: [  8 128  12]
+kernels: [3 2 5]
+activations: ['relu' 'prelu' 'selu']
+adaptive type: avg
+adaptive size: 5
+optimizer: adam
+learning rate: 0.0001
+momentum: 0.4
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 1e-05
+DISCRIMINATOR:
+filters: [  8 128  12]
+kernels: [3 2 5]
+activations: ['relu' 'prelu' 'selu']
+optimizer: sgd
+learning rate: 0.002
+momentum: 0.9
+=============
+CHROMOSOME 2/6
+FITNESS: 0.750151
+img size: (40, 40)
+GENERATOR:
+filters: [128  24   4  32  64]
+kernels: [5 4 4 2 3]
+activations: ['selu' 'prelu' 'prelu' 'selu' 'selu']
+adaptive type: avg
+adaptive size: 4
+optimizer: rmsprop
+learning rate: 0.005
+momentum: 0.9
+Noise shape: [3,20,20]
+mean: 0.0 standard deviation: 0.1
+DISCRIMINATOR:
+filters: [128  24   4  32  64]
+kernels: [5 4 4 2 3]
+activations: ['selu' 'prelu' 'prelu' 'selu' 'selu']
+optimizer: rmsprop
+learning rate: 0.002
+momentum: 0.5
+=============
+CHROMOSOME 3/6
+FITNESS: 0.010226
+img size: (40, 40)
+GENERATOR:
+filters: [ 64 128 128]
+kernels: [2 2 4]
+activations: ['relu' 'selu' 'relu']
+adaptive type: max
+adaptive size: 5
+optimizer: sgd
+learning rate: 0.002
+momentum: 0.8
+Noise shape: [3,20,20]
+mean: 0.0 standard deviation: 1e-05
+DISCRIMINATOR:
+filters: [ 64 128 128]
+kernels: [2 2 4]
+activations: ['relu' 'selu' 'relu']
+optimizer: adam
+learning rate: 0.0001
+momentum: 0.9
+=============
+CHROMOSOME 4/6
+FITNESS: 0.001900
+img size: (40, 40)
+GENERATOR:
+filters: [32 16 32]
+kernels: [4 3 4]
+activations: ['relu' 'relu' 'selu']
+adaptive type: max
+adaptive size: 6
+optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.9
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 0.01
+DISCRIMINATOR:
+filters: [32 16 32]
+kernels: [4 3 4]
+activations: ['relu' 'relu' 'selu']
+optimizer: adam
+learning rate: 0.005
+momentum: 0.9
+=============
+CHROMOSOME 5/6
+FITNESS: 0.027311
+img size: (40, 40)
+GENERATOR:
+filters: [6 4]
+kernels: [5 5]
+activations: ['relu' 'selu']
+adaptive type: avg
+adaptive size: 8
+optimizer: adam
+learning rate: 0.0005
+momentum: 0.8
+Noise shape: [3,20,20]
+mean: 0.0 standard deviation: 0.001
+DISCRIMINATOR:
+filters: [6 4]
+kernels: [5 5]
+activations: ['relu' 'selu']
+optimizer: adam
+learning rate: 0.0005
+momentum: 0.8
+=============
+CHROMOSOME 6/6
+FITNESS: 0.032813
+img size: (40, 40)
+GENERATOR:
+filters: [8 4 4]
+kernels: [3 4 5]
+activations: ['selu' 'selu' 'selu']
+adaptive type: max
+adaptive size: 5
+optimizer: rmsprop
+learning rate: 0.0002
+momentum: 0.75
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 0.1
+DISCRIMINATOR:
+filters: [8 4 4]
+kernels: [3 4 5]
+activations: ['selu' 'selu' 'selu']
+optimizer: sgd
+learning rate: 0.002
+momentum: 0.5
+=============
+CHROMOSOME 1/6
+FITNESS: 0.015721
+GENERATOR:
+---------------------filters: [  8 128  12]
+kernels: [3 2 5]
+activations: ['relu' 'prelu' 'selu']
+optimizer: adam
+learning rate: 0.0001
+momentum: 0.4
+Noise shape: 340
+mean: 0.1 standard deviation: 1e-05
+DISCRIMINATOR:
+filters: [  8 128  12]
+kernels: [3 2 5]
+activations: ['relu' 'prelu' 'selu']
+=============
+CHROMOSOME 1/6
+FITNESS: 0.015721
+img size: (40, 40)
+GENERATOR:
+filters: [  8 128  12]
+kernels: [3 2 5]
+activations: ['relu' 'prelu' 'selu']
+=============
+CHROMOSOME 1/10
+FITNESS: 0.263201
+img size: (40, 40)
+GENERATOR:
+filters: [4 8]
+kernels: [5 4]
+activations: ['prelu' 'prelu']
+adaptive type: avg
+adaptive size: 5
+optimizer: rmsprop
+learning rate: 0.001
+momentum: 0.75
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 1e-05
+DISCRIMINATOR:
+filters: [4 8]
+kernels: [5 4]
+activations: ['prelu' 'prelu']
+optimizer: sgd
+learning rate: 0.005
+momentum: 0.5
+=============
+CHROMOSOME 2/10
+FITNESS: 0.265587
+img size: (40, 40)
+GENERATOR:
+filters: [ 4  6  2 12  6]
+kernels: [3 4 5 3 2]
+activations: ['selu' 'relu' 'relu' 'prelu' 'selu']
+adaptive type: avg
+adaptive size: 6
+optimizer: adam
+learning rate: 0.0002
+momentum: 0.8
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 0.5
+DISCRIMINATOR:
+filters: [ 4  6  2 12  6]
+kernels: [3 4 5 3 2]
+activations: ['selu' 'relu' 'relu' 'prelu' 'selu']
+optimizer: adam
+learning rate: 0.0005
+momentum: 0.5
+=============
+CHROMOSOME 3/10
+FITNESS: 0.209359
+img size: (40, 40)
+GENERATOR:
+filters: [ 12   2   6   8 128   6]
+kernels: [3 3 5 4 3 3]
+activations: ['selu' 'prelu' 'selu' 'selu' 'selu' 'selu']
+adaptive type: max
+adaptive size: 7
+optimizer: adam
+learning rate: 0.002
+momentum: 0.5
+Noise shape: [3,20,20]
+mean: 0.0 standard deviation: 0.01
+DISCRIMINATOR:
+filters: [ 12   2   6   8 128   6]
+kernels: [3 3 5 4 3 3]
+activations: ['selu' 'prelu' 'selu' 'selu' 'selu' 'selu']
+optimizer: adam
+learning rate: 0.002
+momentum: 0.9
+=============
+CHROMOSOME 4/10
+FITNESS: 0.238432
+img size: (40, 40)
+GENERATOR:
+filters: [128   6   4]
+kernels: [2 5 2]
+activations: ['selu' 'selu' 'selu']
+adaptive type: avg
+adaptive size: 4
+optimizer: sgd
+learning rate: 0.0005
+momentum: 0.8
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 0.01
+DISCRIMINATOR:
+filters: [128   6   4]
+kernels: [2 5 2]
+activations: ['selu' 'selu' 'selu']
+optimizer: sgd
+learning rate: 0.001
+momentum: 0.9
+=============
+CHROMOSOME 5/10
+FITNESS: 0.260388
+img size: (40, 40)
+GENERATOR:
+filters: [12  4  8 16]
+kernels: [5 3 3 4]
+activations: ['relu' 'prelu' 'prelu' 'prelu']
+adaptive type: avg
+adaptive size: 4
+optimizer: adam
+learning rate: 0.002
+momentum: 0.4
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 0.001
+DISCRIMINATOR:
+filters: [12  4  8 16]
+kernels: [5 3 3 4]
+activations: ['relu' 'prelu' 'prelu' 'prelu']
+optimizer: adam
+learning rate: 0.002
+momentum: 0.8
+=============
+CHROMOSOME 6/10
+FITNESS: 0.249877
+img size: (40, 40)
+GENERATOR:
+filters: [12 16 16 64]
+kernels: [3 5 3 4]
+activations: ['selu' 'relu' 'selu' 'selu']
+adaptive type: max
+adaptive size: 6
+optimizer: sgd
+learning rate: 0.0002
+momentum: 0.75
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 0.01
+DISCRIMINATOR:
+filters: [12 16 16 64]
+kernels: [3 5 3 4]
+activations: ['selu' 'relu' 'selu' 'selu']
+optimizer: sgd
+learning rate: 0.002
+momentum: 0.8
+=============
+CHROMOSOME 7/10
+FITNESS: 0.134912
+img size: (40, 40)
+GENERATOR:
+filters: [ 32  16 128  24 128]
+kernels: [5 2 3 2 4]
+activations: ['relu' 'selu' 'selu' 'relu' 'prelu']
+adaptive type: max
+adaptive size: 8
+optimizer: rmsprop
+learning rate: 0.0005
+momentum: 0.75
+Noise shape: [3,20,20]
+mean: 0.1 standard deviation: 1e-05
+DISCRIMINATOR:
+filters: [ 32  16 128  24 128]
+kernels: [5 2 3 2 4]
+activations: ['relu' 'selu' 'selu' 'relu' 'prelu']
+optimizer: rmsprop
+learning rate: 0.005
+momentum: 0.75
+=============
+CHROMOSOME 8/10
+FITNESS: 0.220952
+img size: (40, 40)
+GENERATOR:
+filters: [ 6 32 64 32  8]
+kernels: [4 5 4 5 2]
+activations: ['selu' 'relu' 'relu' 'selu' 'relu']
+adaptive type: avg
+adaptive size: 5
+optimizer: sgd
+learning rate: 0.002
+momentum: 0.5
+Noise shape: [3,20,20]
+mean: 0.0 standard deviation: 1e-08
+DISCRIMINATOR:
+filters: [ 6 32 64 32  8]
+kernels: [4 5 4 5 2]
+activations: ['selu' 'relu' 'relu' 'selu' 'relu']
+optimizer: adam
+learning rate: 0.002
+momentum: 0.75
+=============
+CHROMOSOME 9/10
+FITNESS: 0.226767
+img size: (40, 40)
+GENERATOR:
+filters: [ 8 64 32 12 32  8]
+kernels: [4 2 4 3 2 4]
+activations: ['prelu' 'prelu' 'relu' 'prelu' 'selu' 'prelu']
+adaptive type: avg
+adaptive size: 6
+optimizer: sgd
+learning rate: 0.0001
+momentum: 0.4
+Noise shape: [3,20,20]
+mean: 0.0 standard deviation: 0.0001
+DISCRIMINATOR:
+filters: [ 8 64 32 12 32  8]
+kernels: [4 2 4 3 2 4]
+activations: ['prelu' 'prelu' 'relu' 'prelu' 'selu' 'prelu']
+optimizer: sgd
+learning rate: 0.005
+momentum: 0.75
+=============
+CHROMOSOME 10/10
+FITNESS: 0.931670
+img size: (40, 40)
+GENERATOR:
+filters: [ 32  24 128  16  12]
+kernels: [2 5 2 3 4]
+activations: ['prelu' 'selu' 'prelu' 'prelu' 'prelu']
+adaptive type: max
+adaptive size: 7
+optimizer: sgd
+learning rate: 0.005
+momentum: 0.9
+Noise shape: [3,20,20]
+mean: 0.0 standard deviation: 0.001
+DISCRIMINATOR:
+filters: [ 32  24 128  16  12]
+kernels: [2 5 2 3 4]
+activations: ['prelu' 'selu' 'prelu' 'prelu' 'prelu']
+optimizer: rmsprop
+learning rate: 0.005
+momentum: 0.4
