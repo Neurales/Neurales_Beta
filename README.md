@@ -5,6 +5,9 @@
 
 Neurales is an easy way to use machine learning. We wrote all the code so you can focus on everything else.
 
+All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
+	Website: https://neurales.ai/
+
 Currently Neurales has ten customizeable machine learning tools.
 
 * Autoencoders
@@ -14,9 +17,6 @@ Currently Neurales has ten customizeable machine learning tools.
 * Generative Adversarial Networks 
 * Object Detection
 * Style Transfer
-
-All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
-	Website: https://neurales.ai/
 	
 # Features
 * Plotting for visualization
