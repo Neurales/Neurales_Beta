@@ -30,5 +30,9 @@ We are a very small team working on a very large project with an even larger vis
 # Setup
   
   For setup guides please visit https://neurales.ai/source-available/
+ 
+# License
+
+by using this code you agree to use it for non-commercial Purposes
   
 
