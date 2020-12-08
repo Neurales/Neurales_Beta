@@ -25,7 +25,7 @@ We are a very small team working on a very large project with an even larger vis
 # Features
 * Plotting for visualization
 * Disparate Impact Analysus for bias indications
-* Neuroevolution for automated model tuning
+* Neuroevolution for automated model creation and tuning
 	
 # Setup
   
