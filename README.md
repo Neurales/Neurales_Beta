@@ -56,5 +56,7 @@ Please read it [here.](https://github.com/Neurales/Neurales_Beta/blob/main/LICEN
   
 # Help
 
-for any help, raise an issue on github and/or email jeremy.ruroede@neurales.ai
+This is a beta and there will most likely be bugs we did not catch, if you find any let us know.
+
+for any help or comments/concerns please raise an issue on github and/or email jeremy.ruroede@neurales.ai
 
