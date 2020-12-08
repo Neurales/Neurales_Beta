@@ -1,6 +1,8 @@
 # Neurales_Beta
 <img src="/.github/Neurales_logo.png" width="600">
-# What is Neurales>
+
+# What is Neurales?
+
 Neurales is an easy way to use machine learning. We wrote all the code so you can focus on solving probelms.
 Currently Neurales has ten tools machine learning tools.
 * Autoencoders
