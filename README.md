@@ -51,7 +51,7 @@ We are a very small team working on a very large project with an even larger vis
  
 # License
 
-By using this code you agree to use it for non-commercial Purposes.
+By using this code you agree to use it for non-commercial purposes.
 Please read it [here.](https://github.com/Neurales/Neurales_Beta/blob/main/LICENSE)
   
 # Help
