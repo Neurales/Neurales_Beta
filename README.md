@@ -4,6 +4,8 @@
 All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
 
 	Website: https://neurales.ai/
+	
+# Setup
   
   For install guides please visit https://neurales.ai/source-available/
   
