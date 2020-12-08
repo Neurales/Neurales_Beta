@@ -2,7 +2,6 @@
 <img src="/.github/Neurales_logo.png" width="600">
 
 All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
-
 	Website: https://neurales.ai/
 	
 # Setup
