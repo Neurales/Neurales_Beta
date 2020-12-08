@@ -3,22 +3,25 @@
 
 # What is Neurales?
 
-Neurales is an easy way to use machine learning. We wrote all the code so you can focus on solving probelms.
-Currently Neurales has ten tools machine learning tools.
+Neurales is an easy way to use machine learning. We wrote all the code so you can focus on everything else.
+
+Currently Neurales has ten customizeable machine learning tools.
+
 * Autoencoders
-*
-*
-*
-*
-*
-*
-*
-*
-*
-*
+* Classification 
+* Regression 
+* Covolutional Neural Networks
+* Generative Adversarial Networks 
+* Object Detection
+* Style Transfer
 
 All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
 	Website: https://neurales.ai/
+	
+# Features
+* Plotting for visualization
+* Disparate Impact Analysus for bias indications
+* Neuroevolution for automated model tuning
 	
 # Setup
   
