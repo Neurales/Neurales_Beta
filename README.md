@@ -20,6 +20,7 @@ Currently Neurales has seven customizeable machine learning tools.
 * Reinforcement Learning(coming soon)
 
 If you like what we are doing and want to support us, please consider donating at: https://paypal.me/neurales
+
 We are a very small team working on a very large project with an even larger vision in mind.
 	
 # Features
