@@ -1,6 +1,8 @@
 # Neurales_Beta
-<img src="/.github/Neurales_logo.png" width="600">
-
+<div align="center">
+    <img src="/.github/Neurales_logo.png" width="600">
+</div>
+     
 </p>
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
