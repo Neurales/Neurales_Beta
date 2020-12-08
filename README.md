@@ -12,7 +12,9 @@
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/MacOS-Stable-green" /></a>
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/badge/Window-Stable-green" /></a>
+        <img src="https://img.shields.io/badge/Windows-Stable-green" /></a>
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Nvidia Jetson-Stable-green" /></a>
 </p>
 
 # What is Neurales?
