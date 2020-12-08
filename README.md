@@ -7,6 +7,8 @@ Neurales is an easy way to use machine learning. We wrote all the code so you ca
 
 All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
 	Website: https://neurales.ai/
+	
+	https://img.shields.io/badge/Version-0.0.1-blue
 
 Currently Neurales has seven customizable machine learning tools.
 
