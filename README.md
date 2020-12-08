@@ -29,6 +29,6 @@ We are a very small team working on a very large project with an even larger vis
 	
 # Setup
   
-  For install guides please visit https://neurales.ai/source-available/
+  For setup guides please visit https://neurales.ai/source-available/
   
 
