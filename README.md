@@ -38,5 +38,5 @@ by using this code you agree to use it for non-commercial Purposes
   
 # Help
 
-for any help raise an issue on github and/or email jeremy.ruroede@neurales.ai
+for any help, raise an issue on github and/or email jeremy.ruroede@neurales.ai
 
