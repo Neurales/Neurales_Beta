@@ -35,4 +35,7 @@ We are a very small team working on a very large project with an even larger vis
 
 by using this code you agree to use it for non-commercial Purposes
   
+# Help
+
+for any help raise an issue on github and/or email jeremy.ruroede@neurales.ai
 
