@@ -21,7 +21,7 @@
 
 Neurales is an easy way to use machine learning. We wrote all the code so you can focus on everything else.
 
-All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
+All rights reserved by S.E.R.R.I Technologies, LLC (Owner of Neurales)
 	Website: https://neurales.ai/
 	
 
