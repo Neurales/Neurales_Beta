@@ -32,6 +32,7 @@ Currently Neurales has seven customizable machine learning tools.
 * Regression 
 * Covolutional Neural Networks
 * Generative Adversarial Networks 
+* Genetic Models 
 * Object Detection
 * Style Transfer
 * Reinforcement Learning(coming soon)
