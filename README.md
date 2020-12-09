@@ -25,7 +25,7 @@ All rights reserved by S.E.R.R.I Technologies (Owner of Neurales)
 	Website: https://neurales.ai/
 	
 
-Currently Neurales has seven customizable machine learning tools.
+Currently Neurales has nine customizable machine learning tools.
 
 * Autoencoders
 * Classification 
