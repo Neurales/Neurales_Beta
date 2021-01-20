@@ -65,4 +65,6 @@ for any help or comments/concerns please raise an issue on github and/or email j
 
 # Tutorial Videos
 
-Coming soon
+Neurales Demo 1 - Classifcation: Click [Here.](https://www.youtube.com/watch?v=M9M2zoATNxk)
+
+More Coming Soon
