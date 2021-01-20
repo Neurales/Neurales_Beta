@@ -49,6 +49,7 @@ We are a very small team working on a very large project with an even larger vis
 # Setup
   
   For setup guides please visit https://neurales.ai/source-available/
+  Or get started on jupyter Notebooks right now [here.](https://github.com/Neurales/Neurales_Beta/blob/main/neurales_main/Neurales_beta_guide.ipynb)
  
 # License
 
