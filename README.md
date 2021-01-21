@@ -51,7 +51,14 @@ We are a very small team working on a very large project with an even larger vis
   For setup guides please visit https://neurales.ai/source-available/
   
   Or get started on with our Neurales Jupyter Notebook right now by clicking [here.](https://github.com/Neurales/Neurales_Beta/blob/main/neurales_main/Neurales_beta_guide.ipynb)
- 
+
+
+# Tutorial Videos
+
+Neurales Demo 1 - Classifcation: Click [Here.](https://www.youtube.com/watch?v=YgP1bvf6Zj4)
+
+More Coming Soon
+
 # License
 
 By using this code you agree to use it for non-commercial purposes.
@@ -62,9 +69,3 @@ Please read it [here.](https://github.com/Neurales/Neurales_Beta/blob/main/LICEN
 This is a beta and there will most likely be bugs we did not catch, if you find any let us know.
 
 for any help or comments/concerns please raise an issue on github and/or email jeremy.ruroede@neurales.ai
-
-# Tutorial Videos
-
-Neurales Demo 1 - Classifcation: Click [Here.](https://www.youtube.com/watch?v=M9M2zoATNxk)
-
-More Coming Soon
