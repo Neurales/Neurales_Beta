@@ -55,11 +55,21 @@ We are a very small team working on a very large project with an even larger vis
 
 # Tutorial Videos
 
-Neurales Demo 1 - Classifcation: Click [Here.](https://www.youtube.com/watch?v=YgP1bvf6Zj4)
+Neurales Autoencoders - Coming Soon
 
-Neurales Demo 2 - Regression: Click [Here.](https://www.youtube.com/watch?v=RBUA5gEKYZ4)
+Neurales Classification - Click [Here.](https://www.youtube.com/watch?v=YgP1bvf6Zj4)
 
-More Coming Soon
+Neurales Regression - Click [Here.](https://www.youtube.com/watch?v=RBUA5gEKYZ4)
+
+Neurales Covolutional Neural Networks - Coming Soon
+
+Neurales Generative Adversarial Networks - Coming Soon
+
+Neurales Genetic Models - Coming Soon
+
+Neurales Object Detection - Coming Soon
+
+Neurales Style Transfer - Coming Soon
 
 # License
 
