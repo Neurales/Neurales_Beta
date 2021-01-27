@@ -57,15 +57,15 @@ We are a very small team working on a very large project with an even larger vis
 
 Neurales Autoencoders - Coming Soon
 
-Neurales Classification - Click [Here.](https://www.youtube.com/watch?v=YgP1bvf6Zj4)
+Neurales Classification - Click [Here.](https://youtu.be/YgP1bvf6Zj4)
 
-Neurales Regression - Click [Here.](https://www.youtube.com/watch?v=RBUA5gEKYZ4)
+Neurales Regression - Click [Here.](https://youtu.be/RBUA5gEKYZ4)
 
-Neurales Covolutional Neural Networks - Click [Here.](https://www.youtube.com/watch?v=TRjXGjrBu5A)
+Neurales Covolutional Neural Networks - Click [Here.](https://youtu.be/TRjXGjrBu5A)
 
 Neurales Generative Adversarial Networks - Coming Soon
 
-Neurales Genetic Models - Coming Soon
+Neurales Genetic Models - Click [Here.](https://youtu.be/jxQMvpT0Vrw)
 
 Neurales Object Detection - Coming Soon
 
