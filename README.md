@@ -56,6 +56,7 @@ We are a very small team working on a very large project with an even larger vis
 # Tutorial Videos
 
 Neurales Demo 1 - Classifcation: Click [Here.](https://www.youtube.com/watch?v=YgP1bvf6Zj4)
+
 Neurales Demo 2 - Regression: Click [Here.](https://www.youtube.com/watch?v=RBUA5gEKYZ4)
 
 More Coming Soon
