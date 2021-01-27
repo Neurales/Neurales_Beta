@@ -61,7 +61,7 @@ Neurales Classification - Click [Here.](https://www.youtube.com/watch?v=YgP1bvf6
 
 Neurales Regression - Click [Here.](https://www.youtube.com/watch?v=RBUA5gEKYZ4)
 
-Neurales Covolutional Neural Networks - Coming Soon
+Neurales Covolutional Neural Networks - Click [Here.](https://www.youtube.com/watch?v=TRjXGjrBu5A)
 
 Neurales Generative Adversarial Networks - Coming Soon
 
