@@ -1,6 +1,6 @@
 # Neurales_Beta
 <div align="center">
-    <img src="/.github/forXD.png" width="600">
+    <img src="/.github/forXD.png" width="900">
 </div>
      
 </p>
