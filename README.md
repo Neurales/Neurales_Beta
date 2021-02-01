@@ -1,6 +1,6 @@
 # Neurales_Beta
 <div align="center">
-    <img src="/.github/forgithub.png" width="900">
+    <img src="/.github/forgithub.png" width="600">
 </div>
      
 </p>
