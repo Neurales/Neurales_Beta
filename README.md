@@ -63,7 +63,7 @@ Neurales Regression - Click [Here.](https://youtu.be/RBUA5gEKYZ4)
 
 Neurales Covolutional Neural Networks - Click [Here.](https://youtu.be/TRjXGjrBu5A)
 
-Neurales Generative Adversarial Networks - Coming Soon
+Neurales Generative Adversarial Networks - Click [Here.](https://youtu.be/nTRFO4ClW9M)
 
 Neurales Genetic Models(Neuroevolution) - Click [Here.](https://youtu.be/jxQMvpT0Vrw)
 
